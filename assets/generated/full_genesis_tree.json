@@ -1,0 +1,2680 @@
+{
+    "012338b54ba4625adcc313394d87819c": {
+        "address": "012338b54ba4625adcc313394d87819c",
+        "operator_address": "59357260c14bc6576749d87eb627d727",
+        "parent": "e4e9fb27d7a8150162614ebdd282e195",
+        "epoch_onboarded": 29,
+        "version_onboarded": 7402709,
+        "generation": 1,
+        "children": [
+            {
+                "address": "987be6e871faeedfe255b4305b4c6d02",
+                "operator_address": "91185ed5a1976f2e01be08ee96e4d9d2",
+                "parent": "012338b54ba4625adcc313394d87819c",
+                "epoch_onboarded": 43,
+                "version_onboarded": 10541773,
+                "generation": 2
+            },
+            {
+                "address": "012345062ce76e68f1ac6d5506527aa1",
+                "operator_address": "05081ce8364ae12596742d579368ef6c",
+                "parent": "012338b54ba4625adcc313394d87819c",
+                "epoch_onboarded": 63,
+                "version_onboarded": 14433972,
+                "generation": 2
+            }
+        ]
+    },
+    "987d7486a6db70993eeab79124bc6606": {
+        "address": "987d7486a6db70993eeab79124bc6606",
+        "operator_address": "ca3c5e7218645ab53781c0b58b2401d6",
+        "parent": "252f0b551c80cd9e951d82c6f70792ae",
+        "epoch_onboarded": 37,
+        "version_onboarded": 9325961,
+        "generation": 1,
+        "children": [
+            {
+                "address": "70a016df0643121bfc80ef1c87e4c189",
+                "operator_address": "fcf3f5197c2231b9c2f4b139b94866a0",
+                "parent": "987d7486a6db70993eeab79124bc6606",
+                "epoch_onboarded": 51,
+                "version_onboarded": 12215818,
+                "generation": 2
+            }
+        ]
+    },
+    "987be6e871faeedfe255b4305b4c6d02": {
+        "address": "987be6e871faeedfe255b4305b4c6d02",
+        "operator_address": "91185ed5a1976f2e01be08ee96e4d9d2",
+        "parent": "012338b54ba4625adcc313394d87819c",
+        "epoch_onboarded": 43,
+        "version_onboarded": 10541773,
+        "generation": 2,
+        "children": []
+    },
+    "6a9f0fa0b6bd687f4343d8880b40f697": {
+        "address": "6a9f0fa0b6bd687f4343d8880b40f697",
+        "operator_address": "f0eb80e19c587c661d573b691873c2af",
+        "parent": "bcb79d7c813062f41b221e58b21203b4",
+        "epoch_onboarded": 48,
+        "version_onboarded": 11600572,
+        "generation": 2,
+        "children": [
+            {
+                "address": "4c95e7b998b4e66ef666fe12930a4d5c",
+                "operator_address": "39ba269cc2449ca7e91696ffe3f354c8",
+                "parent": "6a9f0fa0b6bd687f4343d8880b40f697",
+                "epoch_onboarded": 68,
+                "version_onboarded": 15900940,
+                "generation": 3
+            },
+            {
+                "address": "b1baaa259104fbb80d38a8ac6f584ada",
+                "operator_address": "338ee10a1fcfb4b14b8b30cd30624975",
+                "parent": "6a9f0fa0b6bd687f4343d8880b40f697",
+                "epoch_onboarded": 87,
+                "version_onboarded": 20430795,
+                "generation": 3
+            },
+            {
+                "address": "a453c89d37bef4613de96cdb50f41a66",
+                "operator_address": "4b13a0b8ae02e413edb794e09cb2389a",
+                "parent": "6a9f0fa0b6bd687f4343d8880b40f697",
+                "epoch_onboarded": 101,
+                "version_onboarded": 23550206,
+                "generation": 3
+            },
+            {
+                "address": "5f82ff7fb963fb8c0f4262318b1f39fa",
+                "operator_address": "5c8a726efc5f2635086f8782667723dc",
+                "parent": "6a9f0fa0b6bd687f4343d8880b40f697",
+                "epoch_onboarded": 117,
+                "version_onboarded": 26881121,
+                "generation": 3
+            }
+        ]
+    },
+    "d67f3ff22bd719eb5be2df6577c9b42d": {
+        "address": "d67f3ff22bd719eb5be2df6577c9b42d",
+        "operator_address": "55171e51b261d902964dd128a057c23a",
+        "parent": "00000000000000000000000000000000",
+        "epoch_onboarded": 0,
+        "version_onboarded": 0,
+        "generation": 0,
+        "children": [
+            {
+                "address": "50040b551a28645e5c684a646db8e646",
+                "operator_address": "ae4582dda8cc5601d6c81b4a27a46b58",
+                "parent": "d67f3ff22bd719eb5be2df6577c9b42d",
+                "epoch_onboarded": 20,
+                "version_onboarded": 4960325,
+                "generation": 1
+            },
+            {
+                "address": "ba28f081de02fc6cc3bf9879d6033911",
+                "operator_address": "c001106b430f2660732102f2875d1059",
+                "parent": "d67f3ff22bd719eb5be2df6577c9b42d",
+                "epoch_onboarded": 47,
+                "version_onboarded": 11456602,
+                "generation": 1
+            }
+        ]
+    },
+    "012345062ce76e68f1ac6d5506527aa1": {
+        "address": "012345062ce76e68f1ac6d5506527aa1",
+        "operator_address": "05081ce8364ae12596742d579368ef6c",
+        "parent": "012338b54ba4625adcc313394d87819c",
+        "epoch_onboarded": 63,
+        "version_onboarded": 14433972,
+        "generation": 2,
+        "children": []
+    },
+    "e77ddb76c9afcb3d5511e46cbc89023d": {
+        "address": "e77ddb76c9afcb3d5511e46cbc89023d",
+        "operator_address": "6aec566836b3c8a3d10288d90d62078b",
+        "parent": "355ae7b5f391782006ef88580bbeaf22",
+        "epoch_onboarded": 36,
+        "version_onboarded": 9058798,
+        "generation": 2,
+        "children": [
+            {
+                "address": "56641e58aba97fa6b7ea833f83444392",
+                "operator_address": "cfcae8403fa7bed93de913b77c92e559",
+                "parent": "e77ddb76c9afcb3d5511e46cbc89023d",
+                "epoch_onboarded": 65,
+                "version_onboarded": 14906760,
+                "generation": 3
+            }
+        ]
+    },
+    "4c95e7b998b4e66ef666fe12930a4d5c": {
+        "address": "4c95e7b998b4e66ef666fe12930a4d5c",
+        "operator_address": "39ba269cc2449ca7e91696ffe3f354c8",
+        "parent": "6a9f0fa0b6bd687f4343d8880b40f697",
+        "epoch_onboarded": 68,
+        "version_onboarded": 15900940,
+        "generation": 3,
+        "children": [
+            {
+                "address": "ed27fceea43e882d39f7e89422b3a3f1",
+                "operator_address": "5515dfb0ed71b3d6ed129de884366b17",
+                "parent": "4c95e7b998b4e66ef666fe12930a4d5c",
+                "epoch_onboarded": 87,
+                "version_onboarded": 20465634,
+                "generation": 4
+            },
+            {
+                "address": "9909f6edb2a0684adecd7b448b989e4f",
+                "operator_address": "da0bbf6f48010c4080fa04222e5ba155",
+                "parent": "4c95e7b998b4e66ef666fe12930a4d5c",
+                "epoch_onboarded": 101,
+                "version_onboarded": 23593253,
+                "generation": 4
+            },
+            {
+                "address": "45558bad546e6159020871f7e5d094d7",
+                "operator_address": "8bbd842055e8c0312c2158ec4f3c5865",
+                "parent": "4c95e7b998b4e66ef666fe12930a4d5c",
+                "epoch_onboarded": 118,
+                "version_onboarded": 27177256,
+                "generation": 4
+            }
+        ]
+    },
+    "4b08c148f5e80962be1e5755f0d2ed29": {
+        "address": "4b08c148f5e80962be1e5755f0d2ed29",
+        "operator_address": "b73188196d33eb2198070536cc147178",
+        "parent": "d1281de242839fc939745996882c5fc2",
+        "epoch_onboarded": 66,
+        "version_onboarded": 15233143,
+        "generation": 2,
+        "children": [
+            {
+                "address": "dcd39098898a16933829978cb4e7eff6",
+                "operator_address": "d434e5a57e995e246a9c17e8fd92ba10",
+                "parent": "4b08c148f5e80962be1e5755f0d2ed29",
+                "epoch_onboarded": 107,
+                "version_onboarded": 24777550,
+                "generation": 3
+            },
+            {
+                "address": "749ff1a8b711605e5421cfd00bd3385f",
+                "operator_address": "0338f34a671288e2f4751ba809426d43",
+                "parent": "4b08c148f5e80962be1e5755f0d2ed29",
+                "epoch_onboarded": 303,
+                "version_onboarded": 65508120,
+                "generation": 3
+            },
+            {
+                "address": "db971ba7467a10e8fb9f9b660f09f50d",
+                "operator_address": "36d2782fb50c075a6820c0e4780a7e8b",
+                "parent": "4b08c148f5e80962be1e5755f0d2ed29",
+                "epoch_onboarded": 442,
+                "version_onboarded": 93732917,
+                "generation": 3
+            }
+        ]
+    },
+    "7e56b29cb23a49368be593e5cfc9712e": {
+        "address": "7e56b29cb23a49368be593e5cfc9712e",
+        "operator_address": "4d18b6f0481115ea32c96b81d4c35041",
+        "parent": "00000000000000000000000000000000",
+        "epoch_onboarded": 0,
+        "version_onboarded": 0,
+        "generation": 0,
+        "children": [
+            {
+                "address": "0ef85e1723530edd76f2bb13614ac5c5",
+                "operator_address": "c6c3414f37d81f68f8447ddfeaf588ac",
+                "parent": "7e56b29cb23a49368be593e5cfc9712e",
+                "epoch_onboarded": 37,
+                "version_onboarded": 9271787,
+                "generation": 1
+            }
+        ]
+    },
+    "56641e58aba97fa6b7ea833f83444392": {
+        "address": "56641e58aba97fa6b7ea833f83444392",
+        "operator_address": "cfcae8403fa7bed93de913b77c92e559",
+        "parent": "e77ddb76c9afcb3d5511e46cbc89023d",
+        "epoch_onboarded": 65,
+        "version_onboarded": 14906760,
+        "generation": 3,
+        "children": []
+    },
+    "304a03c0b4acdfdce54bfaf39d4e0448": {
+        "address": "304a03c0b4acdfdce54bfaf39d4e0448",
+        "operator_address": "62aa596a51b1ec2ba96beb8e15284987",
+        "parent": "00000000000000000000000000000000",
+        "epoch_onboarded": 0,
+        "version_onboarded": 0,
+        "generation": 0,
+        "children": [
+            {
+                "address": "49d3c58668e4accc43b8a77a9f2835fa",
+                "operator_address": "584e89e24a5d439b7aaccec92be8a663",
+                "parent": "304a03c0b4acdfdce54bfaf39d4e0448",
+                "epoch_onboarded": 20,
+                "version_onboarded": 4960009,
+                "generation": 1
+            },
+            {
+                "address": "d1281de242839fc939745996882c5fc2",
+                "operator_address": "dfe8a91b9e8ee3bdda336487a5b646a8",
+                "parent": "304a03c0b4acdfdce54bfaf39d4e0448",
+                "epoch_onboarded": 36,
+                "version_onboarded": 9050655,
+                "generation": 1
+            }
+        ]
+    },
+    "d96e89e270a5273d94bc8ab7953754f9": {
+        "address": "d96e89e270a5273d94bc8ab7953754f9",
+        "operator_address": "0525084a3d2d2a8fe1d9f56bf37aabf5",
+        "parent": "c0a1f4d49658cf2fe5402e10f496bb80",
+        "epoch_onboarded": 108,
+        "version_onboarded": 24993453,
+        "generation": 1,
+        "children": [
+            {
+                "address": "63bb637e57bf088b129bcf1bfd93ebf4",
+                "operator_address": "bb062b545fdd7eb9142c6d78b266f0b8",
+                "parent": "d96e89e270a5273d94bc8ab7953754f9",
+                "epoch_onboarded": 142,
+                "version_onboarded": 32138844,
+                "generation": 2
+            },
+            {
+                "address": "351f3c360630f790de10570c0a224b06",
+                "operator_address": "26a9f88de8b8c16fc6cfea82d8d7fdca",
+                "parent": "d96e89e270a5273d94bc8ab7953754f9",
+                "epoch_onboarded": 159,
+                "version_onboarded": 35987020,
+                "generation": 2
+            }
+        ]
+    },
+    "70a016df0643121bfc80ef1c87e4c189": {
+        "address": "70a016df0643121bfc80ef1c87e4c189",
+        "operator_address": "fcf3f5197c2231b9c2f4b139b94866a0",
+        "parent": "987d7486a6db70993eeab79124bc6606",
+        "epoch_onboarded": 51,
+        "version_onboarded": 12215818,
+        "generation": 2,
+        "children": []
+    },
+    "b295da228c6808199d92dc813975755c": {
+        "address": "b295da228c6808199d92dc813975755c",
+        "operator_address": "4ba0442bef452b7f68cdc83d5b7c3c8f",
+        "parent": "8421cb22e56f687395f5973bbf0cbdfb",
+        "epoch_onboarded": 35,
+        "version_onboarded": 8908782,
+        "generation": 1,
+        "children": []
+    },
+    "d1c9ce9308b0bdc6dc2ba6a7b5da8c2b": {
+        "address": "d1c9ce9308b0bdc6dc2ba6a7b5da8c2b",
+        "operator_address": "b5e1013e9ab7a874c5282844627c99ac",
+        "parent": "00000000000000000000000000000000",
+        "epoch_onboarded": 0,
+        "version_onboarded": 0,
+        "generation": 0,
+        "children": [
+            {
+                "address": "355ae7b5f391782006ef88580bbeaf22",
+                "operator_address": "aec2461c0c9d8188fd6ae01d9d9f785e",
+                "parent": "d1c9ce9308b0bdc6dc2ba6a7b5da8c2b",
+                "epoch_onboarded": 21,
+                "version_onboarded": 5279596,
+                "generation": 1
+            }
+        ]
+    },
+    "bdb8ad37341cec0817fd8e2474e25031": {
+        "address": "bdb8ad37341cec0817fd8e2474e25031",
+        "operator_address": "148c808f4063d03966c10f61dd6f3711",
+        "parent": "00000000000000000000000000000000",
+        "epoch_onboarded": 0,
+        "version_onboarded": 0,
+        "generation": 0,
+        "children": [
+            {
+                "address": "e985cbb111a6e7210f1f07aa1f8a75dd",
+                "operator_address": "ee58c4a2938cf3d892e85fb2cc039245",
+                "parent": "bdb8ad37341cec0817fd8e2474e25031",
+                "epoch_onboarded": 23,
+                "version_onboarded": 5850341,
+                "generation": 1
+            }
+        ]
+    },
+    "86ea91e266287d11011f5c0b3963d2ea": {
+        "address": "86ea91e266287d11011f5c0b3963d2ea",
+        "operator_address": "82114a456a2f72dd1642c28e9ec08ca7",
+        "parent": "ba28f081de02fc6cc3bf9879d6033911",
+        "epoch_onboarded": 74,
+        "version_onboarded": 17591125,
+        "generation": 2,
+        "children": []
+    },
+    "34e5addec49ded4cc638dad8cd992858": {
+        "address": "34e5addec49ded4cc638dad8cd992858",
+        "operator_address": "4271fb7a96e4dd0aa2ac6e8122be235a",
+        "parent": "00000000000000000000000000000000",
+        "epoch_onboarded": 0,
+        "version_onboarded": 0,
+        "generation": 0,
+        "children": [
+            {
+                "address": "c051bd516ca491cdf88c0a0656a552b0",
+                "operator_address": "f1ea95ffab3f82f1d35aaaf3bccbb4a1",
+                "parent": "34e5addec49ded4cc638dad8cd992858",
+                "epoch_onboarded": 22,
+                "version_onboarded": 5505531,
+                "generation": 1
+            },
+            {
+                "address": "b0b8497a2ebe3d5802e7317d3a5804f2",
+                "operator_address": "4c54ecbc4af6326ce40e307e8f4657d2",
+                "parent": "34e5addec49ded4cc638dad8cd992858",
+                "epoch_onboarded": 45,
+                "version_onboarded": 10946719,
+                "generation": 1
+            },
+            {
+                "address": "bf9914712cf46865c1a94b409a6f6bce",
+                "operator_address": "7e3dadc0aa57df60a2254b05bc4cf6a7",
+                "parent": "34e5addec49ded4cc638dad8cd992858",
+                "epoch_onboarded": 114,
+                "version_onboarded": 26281795,
+                "generation": 1
+            }
+        ]
+    },
+    "79d2a77b01e5cde1a5fb123119424acb": {
+        "address": "79d2a77b01e5cde1a5fb123119424acb",
+        "operator_address": "f44fcba74c508563a9c51c0b40172a72",
+        "parent": "63bb637e57bf088b129bcf1bfd93ebf4",
+        "epoch_onboarded": 159,
+        "version_onboarded": 35988265,
+        "generation": 3,
+        "children": []
+    },
+    "63bb637e57bf088b129bcf1bfd93ebf4": {
+        "address": "63bb637e57bf088b129bcf1bfd93ebf4",
+        "operator_address": "bb062b545fdd7eb9142c6d78b266f0b8",
+        "parent": "d96e89e270a5273d94bc8ab7953754f9",
+        "epoch_onboarded": 142,
+        "version_onboarded": 32138844,
+        "generation": 2,
+        "children": [
+            {
+                "address": "79d2a77b01e5cde1a5fb123119424acb",
+                "operator_address": "f44fcba74c508563a9c51c0b40172a72",
+                "parent": "63bb637e57bf088b129bcf1bfd93ebf4",
+                "epoch_onboarded": 159,
+                "version_onboarded": 35988265,
+                "generation": 3
+            }
+        ]
+    },
+    "7ec16859c24200d8e074809d252ac740": {
+        "address": "7ec16859c24200d8e074809d252ac740",
+        "operator_address": "c8336044cdf1878d9738ed0a041b235e",
+        "parent": "00000000000000000000000000000000",
+        "epoch_onboarded": 0,
+        "version_onboarded": 0,
+        "generation": 0,
+        "children": [
+            {
+                "address": "aa7b724a51a8bd8e55208fef969209b3",
+                "operator_address": "c54a7a74ff2f16e3fa581b897aad7ed3",
+                "parent": "7ec16859c24200d8e074809d252ac740",
+                "epoch_onboarded": 28,
+                "version_onboarded": 7106562,
+                "generation": 1
+            },
+            {
+                "address": "5d1de3da6351f8ee592139cfd461ae10",
+                "operator_address": "dff296e4bd2b559a431351967648a4f0",
+                "parent": "7ec16859c24200d8e074809d252ac740",
+                "epoch_onboarded": 69,
+                "version_onboarded": 16247827,
+                "generation": 1
+            },
+            {
+                "address": "3ad62c7bf62a8dca766e74772192b8cc",
+                "operator_address": "7aaaa4baf7a62c630339b871a8991dd2",
+                "parent": "7ec16859c24200d8e074809d252ac740",
+                "epoch_onboarded": 173,
+                "version_onboarded": 37498488,
+                "generation": 1
+            }
+        ]
+    },
+    "c0a1f4d49658cf2fe5402e10f496bb80": {
+        "address": "c0a1f4d49658cf2fe5402e10f496bb80",
+        "operator_address": "98b52dbcccf7757601b3540986ecd2dd",
+        "parent": "00000000000000000000000000000000",
+        "epoch_onboarded": 0,
+        "version_onboarded": 0,
+        "generation": 0,
+        "children": [
+            {
+                "address": "e8a1bf5e60fa00c2b792098b12fde964",
+                "operator_address": "9f395754547c76fda1577edd53a959d9",
+                "parent": "c0a1f4d49658cf2fe5402e10f496bb80",
+                "epoch_onboarded": 16,
+                "version_onboarded": 3596612,
+                "generation": 1
+            },
+            {
+                "address": "e264023342b41accdbb61a190b6cb2a7",
+                "operator_address": "b32c7497340a36797e421b35fa708a61",
+                "parent": "c0a1f4d49658cf2fe5402e10f496bb80",
+                "epoch_onboarded": 33,
+                "version_onboarded": 8505948,
+                "generation": 1
+            },
+            {
+                "address": "c44a50622c2d465e6c15982b8e127349",
+                "operator_address": "6b4124692f988f8accb3584d11915b16",
+                "parent": "c0a1f4d49658cf2fe5402e10f496bb80",
+                "epoch_onboarded": 48,
+                "version_onboarded": 11757665,
+                "generation": 1
+            },
+            {
+                "address": "754903132f75c0b1f5e5be29fb0ca6cd",
+                "operator_address": "b4b363e99dcaf5a7c4e49eddf768480b",
+                "parent": "c0a1f4d49658cf2fe5402e10f496bb80",
+                "epoch_onboarded": 80,
+                "version_onboarded": 19028152,
+                "generation": 1
+            },
+            {
+                "address": "1ec9ce93756b92ab1a2665c629b37bfb",
+                "operator_address": "aab75b47a98d702541c5d6c40136d2d7",
+                "parent": "c0a1f4d49658cf2fe5402e10f496bb80",
+                "epoch_onboarded": 94,
+                "version_onboarded": 22000252,
+                "generation": 1
+            },
+            {
+                "address": "d96e89e270a5273d94bc8ab7953754f9",
+                "operator_address": "0525084a3d2d2a8fe1d9f56bf37aabf5",
+                "parent": "c0a1f4d49658cf2fe5402e10f496bb80",
+                "epoch_onboarded": 108,
+                "version_onboarded": 24993453,
+                "generation": 1
+            },
+            {
+                "address": "9a710919b1a1e67eda335269c0085c91",
+                "operator_address": "4933a2593ae252c3f233633275add9ac",
+                "parent": "c0a1f4d49658cf2fe5402e10f496bb80",
+                "epoch_onboarded": 144,
+                "version_onboarded": 32575404,
+                "generation": 1
+            },
+            {
+                "address": "c846b6a1f74cd459de2b547e0d6ece41",
+                "operator_address": "df44b3b37ffead6c0ca476215a3c3319",
+                "parent": "c0a1f4d49658cf2fe5402e10f496bb80",
+                "epoch_onboarded": 189,
+                "version_onboarded": 40595874,
+                "generation": 1
+            },
+            {
+                "address": "f87f7e60a019f509eb6573018cd0d8b8",
+                "operator_address": "c514750b51b5bf01aac2f9a4b7c13ac4",
+                "parent": "c0a1f4d49658cf2fe5402e10f496bb80",
+                "epoch_onboarded": 209,
+                "version_onboarded": 45357274,
+                "generation": 1
+            }
+        ]
+    },
+    "779fd01dfe608a4288b4b514d17da48b": {
+        "address": "779fd01dfe608a4288b4b514d17da48b",
+        "operator_address": "ce81608c152527388c0a50d14f66ad87",
+        "parent": "ecaf65add1b785b0495e3099f4045ec0",
+        "epoch_onboarded": 44,
+        "version_onboarded": 10727211,
+        "generation": 1,
+        "children": []
+    },
+    "756d518db499a22c1dad0e2ee353c21d": {
+        "address": "756d518db499a22c1dad0e2ee353c21d",
+        "operator_address": "f4373a844aff1be9db80dc114469c780",
+        "parent": "d1281de242839fc939745996882c5fc2",
+        "epoch_onboarded": 45,
+        "version_onboarded": 11065008,
+        "generation": 2,
+        "children": [
+            {
+                "address": "048ccb33bf48a0f333023e0e8ecce568",
+                "operator_address": "2384738fd12a6a2b09232ba6096edc6e",
+                "parent": "756d518db499a22c1dad0e2ee353c21d",
+                "epoch_onboarded": 50,
+                "version_onboarded": 12126440,
+                "generation": 3
+            },
+            {
+                "address": "c60aa211476fa7b451fb77ee9df81594",
+                "operator_address": "f711e48164e79ae19fd6b2fa1ded3ff8",
+                "parent": "756d518db499a22c1dad0e2ee353c21d",
+                "epoch_onboarded": 102,
+                "version_onboarded": 23955059,
+                "generation": 3
+            }
+        ]
+    },
+    "ecaf65add1b785b0495e3099f4045ec0": {
+        "address": "ecaf65add1b785b0495e3099f4045ec0",
+        "operator_address": "00a7c9b758095176d29e5936ba9fb1d6",
+        "parent": "00000000000000000000000000000000",
+        "epoch_onboarded": 0,
+        "version_onboarded": 0,
+        "generation": 0,
+        "children": [
+            {
+                "address": "69a385e1744e33fbb24a42ecbd1603e3",
+                "operator_address": "a25a563e5029210d60a1ed53e9761fcf",
+                "parent": "ecaf65add1b785b0495e3099f4045ec0",
+                "epoch_onboarded": 21,
+                "version_onboarded": 5306020,
+                "generation": 1
+            },
+            {
+                "address": "779fd01dfe608a4288b4b514d17da48b",
+                "operator_address": "ce81608c152527388c0a50d14f66ad87",
+                "parent": "ecaf65add1b785b0495e3099f4045ec0",
+                "epoch_onboarded": 44,
+                "version_onboarded": 10727211,
+                "generation": 1
+            }
+        ]
+    },
+    "351f3c360630f790de10570c0a224b06": {
+        "address": "351f3c360630f790de10570c0a224b06",
+        "operator_address": "26a9f88de8b8c16fc6cfea82d8d7fdca",
+        "parent": "d96e89e270a5273d94bc8ab7953754f9",
+        "epoch_onboarded": 159,
+        "version_onboarded": 35987020,
+        "generation": 2,
+        "children": []
+    },
+    "46a7a744b5d33c47f6b20766f8088b10": {
+        "address": "46a7a744b5d33c47f6b20766f8088b10",
+        "operator_address": "e5ff39b2bca1b7d4c154a07f8d2699a9",
+        "parent": "00000000000000000000000000000000",
+        "epoch_onboarded": 0,
+        "version_onboarded": 0,
+        "generation": 0,
+        "children": [
+            {
+                "address": "bcb79d7c813062f41b221e58b21203b4",
+                "operator_address": "e3b89d3dc8e4fbe83ba29ada5e04f169",
+                "parent": "46a7a744b5d33c47f6b20766f8088b10",
+                "epoch_onboarded": 22,
+                "version_onboarded": 5482926,
+                "generation": 1
+            },
+            {
+                "address": "d4df0e0d9777a35bb094df319231fc5f",
+                "operator_address": "ffd343118f13fbd59ef2e2c37f17ef37",
+                "parent": "46a7a744b5d33c47f6b20766f8088b10",
+                "epoch_onboarded": 73,
+                "version_onboarded": 17126177,
+                "generation": 1
+            },
+            {
+                "address": "123c6ca26a6ed35ad00868b33b4a98d1",
+                "operator_address": "f7b93fba7bf20c1999a79c57c8a1cb8d",
+                "parent": "46a7a744b5d33c47f6b20766f8088b10",
+                "epoch_onboarded": 187,
+                "version_onboarded": 40148496,
+                "generation": 1
+            }
+        ]
+    },
+    "3e169c31b0ddfed4f464e1756a90dfb5": {
+        "address": "3e169c31b0ddfed4f464e1756a90dfb5",
+        "operator_address": "1196f7ec5d82ee1ebb2c2204894b17b2",
+        "parent": "9a710919b1a1e67eda335269c0085c91",
+        "epoch_onboarded": 186,
+        "version_onboarded": 39759443,
+        "generation": 2,
+        "children": [
+            {
+                "address": "1e0f82ed044ad1b1e927f58da129a630",
+                "operator_address": "6e54927fa99afd069295d5b54fa2b019",
+                "parent": "3e169c31b0ddfed4f464e1756a90dfb5",
+                "epoch_onboarded": 303,
+                "version_onboarded": 65568386,
+                "generation": 3
+            },
+            {
+                "address": "71e5be86b41516743ac8594bc90ee2fc",
+                "operator_address": "373e2b5bcfecb6d55225043efdd504aa",
+                "parent": "3e169c31b0ddfed4f464e1756a90dfb5",
+                "epoch_onboarded": 342,
+                "version_onboarded": 72990302,
+                "generation": 3
+            }
+        ]
+    },
+    "9a710919b1a1e67eda335269c0085c91": {
+        "address": "9a710919b1a1e67eda335269c0085c91",
+        "operator_address": "4933a2593ae252c3f233633275add9ac",
+        "parent": "c0a1f4d49658cf2fe5402e10f496bb80",
+        "epoch_onboarded": 144,
+        "version_onboarded": 32575404,
+        "generation": 1,
+        "children": [
+            {
+                "address": "3e169c31b0ddfed4f464e1756a90dfb5",
+                "operator_address": "1196f7ec5d82ee1ebb2c2204894b17b2",
+                "parent": "9a710919b1a1e67eda335269c0085c91",
+                "epoch_onboarded": 186,
+                "version_onboarded": 39759443,
+                "generation": 2
+            },
+            {
+                "address": "40ea177f547a82a259baa89fbd671c70",
+                "operator_address": "9f929d504b079f0c7503ab4a254cc493",
+                "parent": "9a710919b1a1e67eda335269c0085c91",
+                "epoch_onboarded": 217,
+                "version_onboarded": 47038584,
+                "generation": 2
+            },
+            {
+                "address": "79da3cf5f8d2376e4f7dc21a04b86fd6",
+                "operator_address": "8afc82a6ca451312ea5af0c46fa3ace2",
+                "parent": "9a710919b1a1e67eda335269c0085c91",
+                "epoch_onboarded": 281,
+                "version_onboarded": 62222805,
+                "generation": 2
+            }
+        ]
+    },
+    "ba28f081de02fc6cc3bf9879d6033911": {
+        "address": "ba28f081de02fc6cc3bf9879d6033911",
+        "operator_address": "c001106b430f2660732102f2875d1059",
+        "parent": "d67f3ff22bd719eb5be2df6577c9b42d",
+        "epoch_onboarded": 47,
+        "version_onboarded": 11456602,
+        "generation": 1,
+        "children": [
+            {
+                "address": "86ea91e266287d11011f5c0b3963d2ea",
+                "operator_address": "82114a456a2f72dd1642c28e9ec08ca7",
+                "parent": "ba28f081de02fc6cc3bf9879d6033911",
+                "epoch_onboarded": 74,
+                "version_onboarded": 17591125,
+                "generation": 2
+            },
+            {
+                "address": "a4987f392e32442229f15fb73dac5e50",
+                "operator_address": "24b9f75f008646fd7338016636917527",
+                "parent": "ba28f081de02fc6cc3bf9879d6033911",
+                "epoch_onboarded": 113,
+                "version_onboarded": 26091502,
+                "generation": 2
+            },
+            {
+                "address": "8211f452baa248cbab103474f6f47a43",
+                "operator_address": "2ec2a7009f5dccde034c79cc84b44fa8",
+                "parent": "ba28f081de02fc6cc3bf9879d6033911",
+                "epoch_onboarded": 251,
+                "version_onboarded": 54883569,
+                "generation": 2
+            }
+        ]
+    },
+    "754903132f75c0b1f5e5be29fb0ca6cd": {
+        "address": "754903132f75c0b1f5e5be29fb0ca6cd",
+        "operator_address": "b4b363e99dcaf5a7c4e49eddf768480b",
+        "parent": "c0a1f4d49658cf2fe5402e10f496bb80",
+        "epoch_onboarded": 80,
+        "version_onboarded": 19028152,
+        "generation": 1,
+        "children": []
+    },
+    "8fba55a8622d93e8e8bfbfb2c86460d1": {
+        "address": "8fba55a8622d93e8e8bfbfb2c86460d1",
+        "operator_address": "2865f3332b998ac267fabcf3801ef089",
+        "parent": "8186f4d8fdd09dfe02963b0b4c385105",
+        "epoch_onboarded": 139,
+        "version_onboarded": 31478698,
+        "generation": 3,
+        "children": []
+    },
+    "048ccb33bf48a0f333023e0e8ecce568": {
+        "address": "048ccb33bf48a0f333023e0e8ecce568",
+        "operator_address": "2384738fd12a6a2b09232ba6096edc6e",
+        "parent": "756d518db499a22c1dad0e2ee353c21d",
+        "epoch_onboarded": 50,
+        "version_onboarded": 12126440,
+        "generation": 3,
+        "children": [
+            {
+                "address": "adcb1d42a46292ae89e938bd982f2867",
+                "operator_address": "69638548b5c6e8cf8eb8ad3f2c8e096a",
+                "parent": "048ccb33bf48a0f333023e0e8ecce568",
+                "epoch_onboarded": 67,
+                "version_onboarded": 15559562,
+                "generation": 4
+            },
+            {
+                "address": "5a8fc2f30445ad0f5f4dd0e7e8ae0271",
+                "operator_address": "87b82603918e87dd334d43a7b8cc87e8",
+                "parent": "048ccb33bf48a0f333023e0e8ecce568",
+                "epoch_onboarded": 103,
+                "version_onboarded": 23968388,
+                "generation": 4
+            },
+            {
+                "address": "2cc7223c4f8c1899a7ad393c717ab936",
+                "operator_address": "8dd65cfd0e5bc028c58096d9fb3d6fe8",
+                "parent": "048ccb33bf48a0f333023e0e8ecce568",
+                "epoch_onboarded": 121,
+                "version_onboarded": 27680789,
+                "generation": 4
+            }
+        ]
+    },
+    "b5b5ba58b8e9916fe449d1f989383834": {
+        "address": "b5b5ba58b8e9916fe449d1f989383834",
+        "operator_address": "8ab6489146a5ebc6890dd532bc249545",
+        "parent": "8421cb22e56f687395f5973bbf0cbdfb",
+        "epoch_onboarded": 18,
+        "version_onboarded": 4336088,
+        "generation": 1,
+        "children": [
+            {
+                "address": "b6e4cea71556d2685a22e9232f3a1f4f",
+                "operator_address": "a51bc0d4568c621fe94b6888b1a3dc57",
+                "parent": "b5b5ba58b8e9916fe449d1f989383834",
+                "epoch_onboarded": 128,
+                "version_onboarded": 29113907,
+                "generation": 2
+            }
+        ]
+    },
+    "9909f6edb2a0684adecd7b448b989e4f": {
+        "address": "9909f6edb2a0684adecd7b448b989e4f",
+        "operator_address": "da0bbf6f48010c4080fa04222e5ba155",
+        "parent": "4c95e7b998b4e66ef666fe12930a4d5c",
+        "epoch_onboarded": 101,
+        "version_onboarded": 23593253,
+        "generation": 4,
+        "children": [
+            {
+                "address": "8123b6171e1e4cd704b68e1840881e21",
+                "operator_address": "a30fc070b03dc0d9f36d27f7a9ba0339",
+                "parent": "9909f6edb2a0684adecd7b448b989e4f",
+                "epoch_onboarded": 119,
+                "version_onboarded": 27220589,
+                "generation": 5
+            },
+            {
+                "address": "32f24e0488a4e189d38fccd1f2a94b53",
+                "operator_address": "147ac1bc983d5da8fa5628d6ecd201c5",
+                "parent": "9909f6edb2a0684adecd7b448b989e4f",
+                "epoch_onboarded": 381,
+                "version_onboarded": 81183027,
+                "generation": 5
+            }
+        ]
+    },
+    "e264023342b41accdbb61a190b6cb2a7": {
+        "address": "e264023342b41accdbb61a190b6cb2a7",
+        "operator_address": "b32c7497340a36797e421b35fa708a61",
+        "parent": "c0a1f4d49658cf2fe5402e10f496bb80",
+        "epoch_onboarded": 33,
+        "version_onboarded": 8505948,
+        "generation": 1,
+        "children": []
+    },
+    "ccb020e30b1c014f45664761f0b740c7": {
+        "address": "ccb020e30b1c014f45664761f0b740c7",
+        "operator_address": "bc5ac6b47a669f9eb4b9805a5e8505c2",
+        "parent": "00000000000000000000000000000000",
+        "epoch_onboarded": 0,
+        "version_onboarded": 0,
+        "generation": 0,
+        "children": [
+            {
+                "address": "ea10ea06c0fdab689da9dcf78fc90f4e",
+                "operator_address": "dc75c1d21c5cab6a8f8978678a4af699",
+                "parent": "ccb020e30b1c014f45664761f0b740c7",
+                "epoch_onboarded": 16,
+                "version_onboarded": 3637438,
+                "generation": 1
+            },
+            {
+                "address": "9d0a8f2f51a2cb0d4eceeb1fd269431d",
+                "operator_address": "17bbd0e9ba88b569ca5e3bd3c6f04952",
+                "parent": "ccb020e30b1c014f45664761f0b740c7",
+                "epoch_onboarded": 31,
+                "version_onboarded": 7958699,
+                "generation": 1
+            }
+        ]
+    },
+    "5abedec612ea01b9f6f2eaad7187bfef": {
+        "address": "5abedec612ea01b9f6f2eaad7187bfef",
+        "operator_address": "fa87af326d8dee1d97971ed86d6f1b35",
+        "parent": "00000000000000000000000000000000",
+        "epoch_onboarded": 0,
+        "version_onboarded": 0,
+        "generation": 0,
+        "children": [
+            {
+                "address": "71cd7dac2332c0200059af45818b95f8",
+                "operator_address": "4f3fdf3c284665f43469a6e317ea878b",
+                "parent": "5abedec612ea01b9f6f2eaad7187bfef",
+                "epoch_onboarded": 22,
+                "version_onboarded": 5592315,
+                "generation": 1
+            },
+            {
+                "address": "f26fa56d696b2e085dd10793d235de9b",
+                "operator_address": "e0efa5e19cecb19a7be8b2637eeb2f73",
+                "parent": "5abedec612ea01b9f6f2eaad7187bfef",
+                "epoch_onboarded": 59,
+                "version_onboarded": 13526707,
+                "generation": 1
+            }
+        ]
+    },
+    "8186f4d8fdd09dfe02963b0b4c385105": {
+        "address": "8186f4d8fdd09dfe02963b0b4c385105",
+        "operator_address": "26d678407a804cb79d1ab5255dbac65c",
+        "parent": "d1281de242839fc939745996882c5fc2",
+        "epoch_onboarded": 122,
+        "version_onboarded": 28007346,
+        "generation": 2,
+        "children": [
+            {
+                "address": "8fba55a8622d93e8e8bfbfb2c86460d1",
+                "operator_address": "2865f3332b998ac267fabcf3801ef089",
+                "parent": "8186f4d8fdd09dfe02963b0b4c385105",
+                "epoch_onboarded": 139,
+                "version_onboarded": 31478698,
+                "generation": 3
+            },
+            {
+                "address": "2023c65e5323feb2671eb690d5649ae3",
+                "operator_address": "7feed7d270f1238d043a34cd8ef39b27",
+                "parent": "8186f4d8fdd09dfe02963b0b4c385105",
+                "epoch_onboarded": 270,
+                "version_onboarded": 59505968,
+                "generation": 3
+            }
+        ]
+    },
+    "252f0b551c80cd9e951d82c6f70792ae": {
+        "address": "252f0b551c80cd9e951d82c6f70792ae",
+        "operator_address": "f973667c742b6e877d11398fbe5697d5",
+        "parent": "00000000000000000000000000000000",
+        "epoch_onboarded": 0,
+        "version_onboarded": 0,
+        "generation": 0,
+        "children": [
+            {
+                "address": "d340c54f3a05c06835b1401c3575b70d",
+                "operator_address": "5e8aaaee8c44288d82c54b1770b67756",
+                "parent": "252f0b551c80cd9e951d82c6f70792ae",
+                "epoch_onboarded": 21,
+                "version_onboarded": 5306913,
+                "generation": 1
+            },
+            {
+                "address": "987d7486a6db70993eeab79124bc6606",
+                "operator_address": "ca3c5e7218645ab53781c0b58b2401d6",
+                "parent": "252f0b551c80cd9e951d82c6f70792ae",
+                "epoch_onboarded": 37,
+                "version_onboarded": 9325961,
+                "generation": 1
+            },
+            {
+                "address": "0761bca303f0baac640765d3ddf172be",
+                "operator_address": "c48e191e56ff1013a3a27814bf060b02",
+                "parent": "252f0b551c80cd9e951d82c6f70792ae",
+                "epoch_onboarded": 113,
+                "version_onboarded": 26016904,
+                "generation": 1
+            }
+        ]
+    },
+    "d0d62ae27a4e84b559da089a1b15a79f": {
+        "address": "d0d62ae27a4e84b559da089a1b15a79f",
+        "operator_address": "e7fd87b088f4fc19bc51038a90d70e55",
+        "parent": "00000000000000000000000000000000",
+        "epoch_onboarded": 0,
+        "version_onboarded": 0,
+        "generation": 0,
+        "children": [
+            {
+                "address": "e57cf27b3381574151b4fcea65bda0d2",
+                "operator_address": "76484d6025e1310f3c89f4467e024a24",
+                "parent": "d0d62ae27a4e84b559da089a1b15a79f",
+                "epoch_onboarded": 20,
+                "version_onboarded": 5021771,
+                "generation": 1
+            },
+            {
+                "address": "4152478106c9080141da1a7176292b8c",
+                "operator_address": "878e65b64d7dd4c5f535b52e5f5b01a5",
+                "parent": "d0d62ae27a4e84b559da089a1b15a79f",
+                "epoch_onboarded": 44,
+                "version_onboarded": 10768284,
+                "generation": 1
+            }
+        ]
+    },
+    "c846b6a1f74cd459de2b547e0d6ece41": {
+        "address": "c846b6a1f74cd459de2b547e0d6ece41",
+        "operator_address": "df44b3b37ffead6c0ca476215a3c3319",
+        "parent": "c0a1f4d49658cf2fe5402e10f496bb80",
+        "epoch_onboarded": 189,
+        "version_onboarded": 40595874,
+        "generation": 1,
+        "children": []
+    },
+    "b1471dc5764695abb4cadf16e26bd4c7": {
+        "address": "b1471dc5764695abb4cadf16e26bd4c7",
+        "operator_address": "facc653d707bd500044dcb99bf4c3d5b",
+        "parent": "00000000000000000000000000000000",
+        "epoch_onboarded": 0,
+        "version_onboarded": 0,
+        "generation": 0,
+        "children": [
+            {
+                "address": "5322609dde43e08ad6da6964574941fd",
+                "operator_address": "1d641c2fd254dad8680047c4c5e42764",
+                "parent": "b1471dc5764695abb4cadf16e26bd4c7",
+                "epoch_onboarded": 24,
+                "version_onboarded": 6006235,
+                "generation": 1
+            }
+        ]
+    },
+    "8421cb22e56f687395f5973bbf0cbdfb": {
+        "address": "8421cb22e56f687395f5973bbf0cbdfb",
+        "operator_address": "9d1ad001bb1a77d6deebee8eb206596c",
+        "parent": "00000000000000000000000000000000",
+        "epoch_onboarded": 0,
+        "version_onboarded": 0,
+        "generation": 0,
+        "children": [
+            {
+                "address": "b5b5ba58b8e9916fe449d1f989383834",
+                "operator_address": "8ab6489146a5ebc6890dd532bc249545",
+                "parent": "8421cb22e56f687395f5973bbf0cbdfb",
+                "epoch_onboarded": 18,
+                "version_onboarded": 4336088,
+                "generation": 1
+            },
+            {
+                "address": "b295da228c6808199d92dc813975755c",
+                "operator_address": "4ba0442bef452b7f68cdc83d5b7c3c8f",
+                "parent": "8421cb22e56f687395f5973bbf0cbdfb",
+                "epoch_onboarded": 35,
+                "version_onboarded": 8908782,
+                "generation": 1
+            }
+        ]
+    },
+    "1c03e956dd7afc612e4efe240c23365d": {
+        "address": "1c03e956dd7afc612e4efe240c23365d",
+        "operator_address": "2c6a483d3f6560b90f4df22949ab83db",
+        "parent": "64b21681ce1c34854498ed92d76432a2",
+        "epoch_onboarded": 35,
+        "version_onboarded": 8818948,
+        "generation": 1,
+        "children": [
+            {
+                "address": "d54e2c10b1810c2654184569b8ba2e96",
+                "operator_address": "04e65951a45c8ad54a927372da38a241",
+                "parent": "1c03e956dd7afc612e4efe240c23365d",
+                "epoch_onboarded": 56,
+                "version_onboarded": 12969530,
+                "generation": 2
+            },
+            {
+                "address": "cb4afd9650005226e65e107030027471",
+                "operator_address": "494b963e4022ebd6482373efe080d90e",
+                "parent": "1c03e956dd7afc612e4efe240c23365d",
+                "epoch_onboarded": 101,
+                "version_onboarded": 23533517,
+                "generation": 2
+            }
+        ]
+    },
+    "d1281de242839fc939745996882c5fc2": {
+        "address": "d1281de242839fc939745996882c5fc2",
+        "operator_address": "dfe8a91b9e8ee3bdda336487a5b646a8",
+        "parent": "304a03c0b4acdfdce54bfaf39d4e0448",
+        "epoch_onboarded": 36,
+        "version_onboarded": 9050655,
+        "generation": 1,
+        "children": [
+            {
+                "address": "756d518db499a22c1dad0e2ee353c21d",
+                "operator_address": "f4373a844aff1be9db80dc114469c780",
+                "parent": "d1281de242839fc939745996882c5fc2",
+                "epoch_onboarded": 45,
+                "version_onboarded": 11065008,
+                "generation": 2
+            },
+            {
+                "address": "4b08c148f5e80962be1e5755f0d2ed29",
+                "operator_address": "b73188196d33eb2198070536cc147178",
+                "parent": "d1281de242839fc939745996882c5fc2",
+                "epoch_onboarded": 66,
+                "version_onboarded": 15233143,
+                "generation": 2
+            },
+            {
+                "address": "8186f4d8fdd09dfe02963b0b4c385105",
+                "operator_address": "26d678407a804cb79d1ab5255dbac65c",
+                "parent": "d1281de242839fc939745996882c5fc2",
+                "epoch_onboarded": 122,
+                "version_onboarded": 28007346,
+                "generation": 2
+            },
+            {
+                "address": "8b9a7d390cd9f902ee2ef4ba8ea699d1",
+                "operator_address": "69bc624b7bff5eeac6b4ab6ce8d159c7",
+                "parent": "d1281de242839fc939745996882c5fc2",
+                "epoch_onboarded": 274,
+                "version_onboarded": 60719825,
+                "generation": 2
+            },
+            {
+                "address": "d85c69af1b7fad9ac8e591ac6a172c11",
+                "operator_address": "454e978465bb7b9b2a611767319ec0c6",
+                "parent": "d1281de242839fc939745996882c5fc2",
+                "epoch_onboarded": 319,
+                "version_onboarded": 68598155,
+                "generation": 4
+            },
+            {
+                "address": "851a3baf866951b36a3fe0da92ba38fc",
+                "operator_address": "4ccf40c6c8831ee400575f1a96d080c0",
+                "parent": "d1281de242839fc939745996882c5fc2",
+                "epoch_onboarded": 340,
+                "version_onboarded": 72551176,
+                "generation": 4
+            }
+        ]
+    },
+    "44bffceb6ac69d098959e4f463fb7005": {
+        "address": "44bffceb6ac69d098959e4f463fb7005",
+        "operator_address": "d888258f1516b4f82680d36e9a1f16e8",
+        "parent": "00000000000000000000000000000000",
+        "epoch_onboarded": 0,
+        "version_onboarded": 0,
+        "generation": 0,
+        "children": [
+            {
+                "address": "a6be3ad55806f2f65cd1776322aede1a",
+                "operator_address": "1d281e527124c0ebb466a553a3d5063e",
+                "parent": "44bffceb6ac69d098959e4f463fb7005",
+                "epoch_onboarded": 21,
+                "version_onboarded": 5218882,
+                "generation": 1
+            },
+            {
+                "address": "9401af0f29d2afd49b8e48a0c361f661",
+                "operator_address": "fbfbaebb74e2d4c54d73c66dc329d909",
+                "parent": "44bffceb6ac69d098959e4f463fb7005",
+                "epoch_onboarded": 41,
+                "version_onboarded": 10126552,
+                "generation": 1
+            }
+        ]
+    },
+    "2023c65e5323feb2671eb690d5649ae3": {
+        "address": "2023c65e5323feb2671eb690d5649ae3",
+        "operator_address": "7feed7d270f1238d043a34cd8ef39b27",
+        "parent": "8186f4d8fdd09dfe02963b0b4c385105",
+        "epoch_onboarded": 270,
+        "version_onboarded": 59505968,
+        "generation": 3,
+        "children": []
+    },
+    "e4e9fb27d7a8150162614ebdd282e195": {
+        "address": "e4e9fb27d7a8150162614ebdd282e195",
+        "operator_address": "088e7f751692c42777f511a0e93625df",
+        "parent": "00000000000000000000000000000000",
+        "epoch_onboarded": 0,
+        "version_onboarded": 0,
+        "generation": 0,
+        "children": [
+            {
+                "address": "012338b54ba4625adcc313394d87819c",
+                "operator_address": "59357260c14bc6576749d87eb627d727",
+                "parent": "e4e9fb27d7a8150162614ebdd282e195",
+                "epoch_onboarded": 29,
+                "version_onboarded": 7402709,
+                "generation": 1
+            }
+        ]
+    },
+    "5a8fc2f30445ad0f5f4dd0e7e8ae0271": {
+        "address": "5a8fc2f30445ad0f5f4dd0e7e8ae0271",
+        "operator_address": "87b82603918e87dd334d43a7b8cc87e8",
+        "parent": "048ccb33bf48a0f333023e0e8ecce568",
+        "epoch_onboarded": 103,
+        "version_onboarded": 23968388,
+        "generation": 4,
+        "children": []
+    },
+    "64b21681ce1c34854498ed92d76432a2": {
+        "address": "64b21681ce1c34854498ed92d76432a2",
+        "operator_address": "23e2a43dd91667ce668ce107705f4c75",
+        "parent": "00000000000000000000000000000000",
+        "epoch_onboarded": 0,
+        "version_onboarded": 0,
+        "generation": 0,
+        "children": [
+            {
+                "address": "84417cef5647097127e1bc24fd1002c6",
+                "operator_address": "f8961ea426908f153ed40105801b508b",
+                "parent": "64b21681ce1c34854498ed92d76432a2",
+                "epoch_onboarded": 18,
+                "version_onboarded": 4349485,
+                "generation": 1
+            },
+            {
+                "address": "1c03e956dd7afc612e4efe240c23365d",
+                "operator_address": "2c6a483d3f6560b90f4df22949ab83db",
+                "parent": "64b21681ce1c34854498ed92d76432a2",
+                "epoch_onboarded": 35,
+                "version_onboarded": 8818948,
+                "generation": 1
+            }
+        ]
+    },
+    "0d785eb2412263beb0dbbb6468f35a1a": {
+        "address": "0d785eb2412263beb0dbbb6468f35a1a",
+        "operator_address": "dfe51b921038123018619d9adaf4ef82",
+        "parent": "f87f7e60a019f509eb6573018cd0d8b8",
+        "epoch_onboarded": 285,
+        "version_onboarded": 63200868,
+        "generation": 2,
+        "children": [
+            {
+                "address": "79784b5981cc5407ba3bf9f7526f3f54",
+                "operator_address": "3f6ce38cd2b7ca92fdc44ac3630ab150",
+                "parent": "0d785eb2412263beb0dbbb6468f35a1a",
+                "epoch_onboarded": 323,
+                "version_onboarded": 69373479,
+                "generation": 3
+            }
+        ]
+    },
+    "749ff1a8b711605e5421cfd00bd3385f": {
+        "address": "749ff1a8b711605e5421cfd00bd3385f",
+        "operator_address": "0338f34a671288e2f4751ba809426d43",
+        "parent": "4b08c148f5e80962be1e5755f0d2ed29",
+        "epoch_onboarded": 303,
+        "version_onboarded": 65508120,
+        "generation": 3,
+        "children": [
+            {
+                "address": "0a5d5b9384f0e825cd1eb8ca9459e012",
+                "operator_address": "72434473a76bb63fa7410bb1cfc90966",
+                "parent": "749ff1a8b711605e5421cfd00bd3385f",
+                "epoch_onboarded": 344,
+                "version_onboarded": 73316061,
+                "generation": 4
+            },
+            {
+                "address": "e28f71944d743958c3fbf348bebe8087",
+                "operator_address": "60be7dd95e66414454f65bc3717dce73",
+                "parent": "749ff1a8b711605e5421cfd00bd3385f",
+                "epoch_onboarded": 382,
+                "version_onboarded": 81422963,
+                "generation": 4
+            },
+            {
+                "address": "599a107393062c98a584817bda5b354b",
+                "operator_address": "be55e840e606458fa2e93f58f864e61c",
+                "parent": "749ff1a8b711605e5421cfd00bd3385f",
+                "epoch_onboarded": 400,
+                "version_onboarded": 85172672,
+                "generation": 4
+            },
+            {
+                "address": "59852115f2d8f091769c03777d656d9c",
+                "operator_address": "043eb1aa957d6de332cc5c0da247933e",
+                "parent": "749ff1a8b711605e5421cfd00bd3385f",
+                "epoch_onboarded": 425,
+                "version_onboarded": 90511454,
+                "generation": 4
+            }
+        ]
+    },
+    "aa7b724a51a8bd8e55208fef969209b3": {
+        "address": "aa7b724a51a8bd8e55208fef969209b3",
+        "operator_address": "c54a7a74ff2f16e3fa581b897aad7ed3",
+        "parent": "7ec16859c24200d8e074809d252ac740",
+        "epoch_onboarded": 28,
+        "version_onboarded": 7106562,
+        "generation": 1,
+        "children": [
+            {
+                "address": "c067823aa108fb83f9f1015b429c0865",
+                "operator_address": "96e7330adb6a9d74d0d7c847f99ec48d",
+                "parent": "aa7b724a51a8bd8e55208fef969209b3",
+                "epoch_onboarded": 54,
+                "version_onboarded": 12491864,
+                "generation": 2
+            }
+        ]
+    },
+    "1e0f82ed044ad1b1e927f58da129a630": {
+        "address": "1e0f82ed044ad1b1e927f58da129a630",
+        "operator_address": "6e54927fa99afd069295d5b54fa2b019",
+        "parent": "3e169c31b0ddfed4f464e1756a90dfb5",
+        "epoch_onboarded": 303,
+        "version_onboarded": 65568386,
+        "generation": 3,
+        "children": [
+            {
+                "address": "6da2b828f3018637379203940c639a95",
+                "operator_address": "ef1c50b6d526d89fa4ce077aebdd118a",
+                "parent": "1e0f82ed044ad1b1e927f58da129a630",
+                "epoch_onboarded": 328,
+                "version_onboarded": 70314447,
+                "generation": 4
+            },
+            {
+                "address": "e202aa9b2cfdb96627531af17832f2ca",
+                "operator_address": "36d5101c160bb8921b747e6a7943dfe7",
+                "parent": "1e0f82ed044ad1b1e927f58da129a630",
+                "epoch_onboarded": 410,
+                "version_onboarded": 87258126,
+                "generation": 4
+            }
+        ]
+    },
+    "b1baaa259104fbb80d38a8ac6f584ada": {
+        "address": "b1baaa259104fbb80d38a8ac6f584ada",
+        "operator_address": "338ee10a1fcfb4b14b8b30cd30624975",
+        "parent": "6a9f0fa0b6bd687f4343d8880b40f697",
+        "epoch_onboarded": 87,
+        "version_onboarded": 20430795,
+        "generation": 3,
+        "children": [
+            {
+                "address": "1a3f012f133e40cf0ffdb565f5087d34",
+                "operator_address": "eb765d9a3c86a5d08ae2e1c61c4b2e07",
+                "parent": "b1baaa259104fbb80d38a8ac6f584ada",
+                "epoch_onboarded": 102,
+                "version_onboarded": 23751111,
+                "generation": 4
+            },
+            {
+                "address": "ac08d4529653d5944b39e155ca9e32b8",
+                "operator_address": "c5b630e82988ecdd4bcefcfae1b0ac59",
+                "parent": "b1baaa259104fbb80d38a8ac6f584ada",
+                "epoch_onboarded": 118,
+                "version_onboarded": 27178045,
+                "generation": 4
+            }
+        ]
+    },
+    "c60aa211476fa7b451fb77ee9df81594": {
+        "address": "c60aa211476fa7b451fb77ee9df81594",
+        "operator_address": "f711e48164e79ae19fd6b2fa1ded3ff8",
+        "parent": "756d518db499a22c1dad0e2ee353c21d",
+        "epoch_onboarded": 102,
+        "version_onboarded": 23955059,
+        "generation": 3,
+        "children": []
+    },
+    "ea10ea06c0fdab689da9dcf78fc90f4e": {
+        "address": "ea10ea06c0fdab689da9dcf78fc90f4e",
+        "operator_address": "dc75c1d21c5cab6a8f8978678a4af699",
+        "parent": "ccb020e30b1c014f45664761f0b740c7",
+        "epoch_onboarded": 16,
+        "version_onboarded": 3637438,
+        "generation": 1,
+        "children": [
+            {
+                "address": "93a91b21218aff3ceb211eb02b27cbe0",
+                "operator_address": "8f6ccc18d8d162f06d6e4c3b50d81c1c",
+                "parent": "ea10ea06c0fdab689da9dcf78fc90f4e",
+                "epoch_onboarded": 35,
+                "version_onboarded": 8848822,
+                "generation": 2
+            }
+        ]
+    },
+    "71e5be86b41516743ac8594bc90ee2fc": {
+        "address": "71e5be86b41516743ac8594bc90ee2fc",
+        "operator_address": "373e2b5bcfecb6d55225043efdd504aa",
+        "parent": "3e169c31b0ddfed4f464e1756a90dfb5",
+        "epoch_onboarded": 342,
+        "version_onboarded": 72990302,
+        "generation": 3,
+        "children": []
+    },
+    "0a5d5b9384f0e825cd1eb8ca9459e012": {
+        "address": "0a5d5b9384f0e825cd1eb8ca9459e012",
+        "operator_address": "72434473a76bb63fa7410bb1cfc90966",
+        "parent": "749ff1a8b711605e5421cfd00bd3385f",
+        "epoch_onboarded": 344,
+        "version_onboarded": 73316061,
+        "generation": 4,
+        "children": [
+            {
+                "address": "4ef2d7fd0ba37849fb94799c13084b16",
+                "operator_address": "5021e5111ea82afac50a4a39f4af8c63",
+                "parent": "0a5d5b9384f0e825cd1eb8ca9459e012",
+                "epoch_onboarded": 379,
+                "version_onboarded": 80719539,
+                "generation": 5
+            },
+            {
+                "address": "3983317328ea613e8de12725f560f683",
+                "operator_address": "810ed14297887d9299955e49326664f4",
+                "parent": "0a5d5b9384f0e825cd1eb8ca9459e012",
+                "epoch_onboarded": 400,
+                "version_onboarded": 85172671,
+                "generation": 5
+            },
+            {
+                "address": "845e52c3ccdc7e725fa8c037b995e442",
+                "operator_address": "dcc8b3994c55d75a276ad62df9213433",
+                "parent": "0a5d5b9384f0e825cd1eb8ca9459e012",
+                "epoch_onboarded": 414,
+                "version_onboarded": 88108862,
+                "generation": 5
+            },
+            {
+                "address": "b8ba6c084fa504add5f23ae51e41f23d",
+                "operator_address": "05480c7e704c937a7a2f27e221979483",
+                "parent": "0a5d5b9384f0e825cd1eb8ca9459e012",
+                "epoch_onboarded": 433,
+                "version_onboarded": 92094682,
+                "generation": 5
+            }
+        ]
+    },
+    "79784b5981cc5407ba3bf9f7526f3f54": {
+        "address": "79784b5981cc5407ba3bf9f7526f3f54",
+        "operator_address": "3f6ce38cd2b7ca92fdc44ac3630ab150",
+        "parent": "0d785eb2412263beb0dbbb6468f35a1a",
+        "epoch_onboarded": 323,
+        "version_onboarded": 69373479,
+        "generation": 3,
+        "children": [
+            {
+                "address": "a35ae41a5f1701fcb67f4e4cad59d259",
+                "operator_address": "2a9779597d797efbee6d21ba1216c6c6",
+                "parent": "79784b5981cc5407ba3bf9f7526f3f54",
+                "epoch_onboarded": 419,
+                "version_onboarded": 89192074,
+                "generation": 4
+            }
+        ]
+    },
+    "851a3baf866951b36a3fe0da92ba38fc": {
+        "address": "851a3baf866951b36a3fe0da92ba38fc",
+        "operator_address": "4ccf40c6c8831ee400575f1a96d080c0",
+        "parent": "d1281de242839fc939745996882c5fc2",
+        "epoch_onboarded": 340,
+        "version_onboarded": 72551176,
+        "generation": 4,
+        "children": []
+    },
+    "69a385e1744e33fbb24a42ecbd1603e3": {
+        "address": "69a385e1744e33fbb24a42ecbd1603e3",
+        "operator_address": "a25a563e5029210d60a1ed53e9761fcf",
+        "parent": "ecaf65add1b785b0495e3099f4045ec0",
+        "epoch_onboarded": 21,
+        "version_onboarded": 5306020,
+        "generation": 1,
+        "children": [
+            {
+                "address": "b8c866350ef33ba748955b7d1ca24130",
+                "operator_address": "1fd7816f7bb0afd65b7d133c5923385f",
+                "parent": "69a385e1744e33fbb24a42ecbd1603e3",
+                "epoch_onboarded": 45,
+                "version_onboarded": 10998080,
+                "generation": 2
+            }
+        ]
+    },
+    "34b5d5e56ec27d954ac5d40b24d11422": {
+        "address": "34b5d5e56ec27d954ac5d40b24d11422",
+        "operator_address": "443d5d5338d5979645dfc8f750c17768",
+        "parent": "84417cef5647097127e1bc24fd1002c6",
+        "epoch_onboarded": 35,
+        "version_onboarded": 8846607,
+        "generation": 2,
+        "children": []
+    },
+    "e8a1bf5e60fa00c2b792098b12fde964": {
+        "address": "e8a1bf5e60fa00c2b792098b12fde964",
+        "operator_address": "9f395754547c76fda1577edd53a959d9",
+        "parent": "c0a1f4d49658cf2fe5402e10f496bb80",
+        "epoch_onboarded": 16,
+        "version_onboarded": 3596612,
+        "generation": 1,
+        "children": [
+            {
+                "address": "59c6262930e3ebb3398d5b88790c090c",
+                "operator_address": "ca949aa34965a5984c2bffff69237216",
+                "parent": "e8a1bf5e60fa00c2b792098b12fde964",
+                "epoch_onboarded": 38,
+                "version_onboarded": 9628061,
+                "generation": 2
+            }
+        ]
+    },
+    "71cd7dac2332c0200059af45818b95f8": {
+        "address": "71cd7dac2332c0200059af45818b95f8",
+        "operator_address": "4f3fdf3c284665f43469a6e317ea878b",
+        "parent": "5abedec612ea01b9f6f2eaad7187bfef",
+        "epoch_onboarded": 22,
+        "version_onboarded": 5592315,
+        "generation": 1,
+        "children": [
+            {
+                "address": "88c0b80b70314fec169492561c9b20b5",
+                "operator_address": "8efe761c1cb3b5b44068512f9275f5dd",
+                "parent": "71cd7dac2332c0200059af45818b95f8",
+                "epoch_onboarded": 102,
+                "version_onboarded": 23761741,
+                "generation": 2
+            }
+        ]
+    },
+    "e57cf27b3381574151b4fcea65bda0d2": {
+        "address": "e57cf27b3381574151b4fcea65bda0d2",
+        "operator_address": "76484d6025e1310f3c89f4467e024a24",
+        "parent": "d0d62ae27a4e84b559da089a1b15a79f",
+        "epoch_onboarded": 20,
+        "version_onboarded": 5021771,
+        "generation": 1,
+        "children": []
+    },
+    "bcb79d7c813062f41b221e58b21203b4": {
+        "address": "bcb79d7c813062f41b221e58b21203b4",
+        "operator_address": "e3b89d3dc8e4fbe83ba29ada5e04f169",
+        "parent": "46a7a744b5d33c47f6b20766f8088b10",
+        "epoch_onboarded": 22,
+        "version_onboarded": 5482926,
+        "generation": 1,
+        "children": [
+            {
+                "address": "6a9f0fa0b6bd687f4343d8880b40f697",
+                "operator_address": "f0eb80e19c587c661d573b691873c2af",
+                "parent": "bcb79d7c813062f41b221e58b21203b4",
+                "epoch_onboarded": 48,
+                "version_onboarded": 11600572,
+                "generation": 2
+            }
+        ]
+    },
+    "50040b551a28645e5c684a646db8e646": {
+        "address": "50040b551a28645e5c684a646db8e646",
+        "operator_address": "ae4582dda8cc5601d6c81b4a27a46b58",
+        "parent": "d67f3ff22bd719eb5be2df6577c9b42d",
+        "epoch_onboarded": 20,
+        "version_onboarded": 4960325,
+        "generation": 1,
+        "children": [
+            {
+                "address": "ec96dec1be938e14dc148be9bc5ed7f3",
+                "operator_address": "abe72a40a1ad44aca90427bbcd6cdf77",
+                "parent": "50040b551a28645e5c684a646db8e646",
+                "epoch_onboarded": 38,
+                "version_onboarded": 9495043,
+                "generation": 2
+            },
+            {
+                "address": "d871c61a37f26ee71e3f156e5f201118",
+                "operator_address": "cf39c6554fac586bc95d71a93e921d76",
+                "parent": "50040b551a28645e5c684a646db8e646",
+                "epoch_onboarded": 70,
+                "version_onboarded": 16464658,
+                "generation": 2
+            }
+        ]
+    },
+    "49d3c58668e4accc43b8a77a9f2835fa": {
+        "address": "49d3c58668e4accc43b8a77a9f2835fa",
+        "operator_address": "584e89e24a5d439b7aaccec92be8a663",
+        "parent": "304a03c0b4acdfdce54bfaf39d4e0448",
+        "epoch_onboarded": 20,
+        "version_onboarded": 4960009,
+        "generation": 1,
+        "children": [
+            {
+                "address": "7756310e875636763d16f080bb236cab",
+                "operator_address": "23738f9e7d61505f726fe490e4a9e8ec",
+                "parent": "49d3c58668e4accc43b8a77a9f2835fa",
+                "epoch_onboarded": 38,
+                "version_onboarded": 9495400,
+                "generation": 2
+            }
+        ]
+    },
+    "4ef2d7fd0ba37849fb94799c13084b16": {
+        "address": "4ef2d7fd0ba37849fb94799c13084b16",
+        "operator_address": "5021e5111ea82afac50a4a39f4af8c63",
+        "parent": "0a5d5b9384f0e825cd1eb8ca9459e012",
+        "epoch_onboarded": 379,
+        "version_onboarded": 80719539,
+        "generation": 5,
+        "children": [
+            {
+                "address": "556be5778be23ddba95957a157124b82",
+                "operator_address": "9c6d7cef2bc1bb7a0f2a5fdb66d839a7",
+                "parent": "4ef2d7fd0ba37849fb94799c13084b16",
+                "epoch_onboarded": 410,
+                "version_onboarded": 87307113,
+                "generation": 6
+            },
+            {
+                "address": "fb7273aa4f2c5d48f7c6abeb915f4051",
+                "operator_address": "32cc8ba2fd12b225d177d6ebf4c72941",
+                "parent": "4ef2d7fd0ba37849fb94799c13084b16",
+                "epoch_onboarded": 444,
+                "version_onboarded": 94100016,
+                "generation": 6
+            }
+        ]
+    },
+    "d340c54f3a05c06835b1401c3575b70d": {
+        "address": "d340c54f3a05c06835b1401c3575b70d",
+        "operator_address": "5e8aaaee8c44288d82c54b1770b67756",
+        "parent": "252f0b551c80cd9e951d82c6f70792ae",
+        "epoch_onboarded": 21,
+        "version_onboarded": 5306913,
+        "generation": 1,
+        "children": []
+    },
+    "d85c69af1b7fad9ac8e591ac6a172c11": {
+        "address": "d85c69af1b7fad9ac8e591ac6a172c11",
+        "operator_address": "454e978465bb7b9b2a611767319ec0c6",
+        "parent": "d1281de242839fc939745996882c5fc2",
+        "epoch_onboarded": 319,
+        "version_onboarded": 68598155,
+        "generation": 4,
+        "children": []
+    },
+    "78233906ce0643d1852a7d4899a7666f": {
+        "address": "78233906ce0643d1852a7d4899a7666f",
+        "operator_address": "4a06455bee983e8bbde0597fb0dd4a21",
+        "parent": "f26fa56d696b2e085dd10793d235de9b",
+        "epoch_onboarded": 105,
+        "version_onboarded": 24567211,
+        "generation": 2,
+        "children": []
+    },
+    "355ae7b5f391782006ef88580bbeaf22": {
+        "address": "355ae7b5f391782006ef88580bbeaf22",
+        "operator_address": "aec2461c0c9d8188fd6ae01d9d9f785e",
+        "parent": "d1c9ce9308b0bdc6dc2ba6a7b5da8c2b",
+        "epoch_onboarded": 21,
+        "version_onboarded": 5279596,
+        "generation": 1,
+        "children": [
+            {
+                "address": "e77ddb76c9afcb3d5511e46cbc89023d",
+                "operator_address": "6aec566836b3c8a3d10288d90d62078b",
+                "parent": "355ae7b5f391782006ef88580bbeaf22",
+                "epoch_onboarded": 36,
+                "version_onboarded": 9058798,
+                "generation": 2
+            },
+            {
+                "address": "903e3503d075d385b72c6136cfdfed47",
+                "operator_address": "3c71c1f6eecd72ac163d21dab1ca513e",
+                "parent": "355ae7b5f391782006ef88580bbeaf22",
+                "epoch_onboarded": 81,
+                "version_onboarded": 19260994,
+                "generation": 2
+            }
+        ]
+    },
+    "84417cef5647097127e1bc24fd1002c6": {
+        "address": "84417cef5647097127e1bc24fd1002c6",
+        "operator_address": "f8961ea426908f153ed40105801b508b",
+        "parent": "64b21681ce1c34854498ed92d76432a2",
+        "epoch_onboarded": 18,
+        "version_onboarded": 4349485,
+        "generation": 1,
+        "children": [
+            {
+                "address": "34b5d5e56ec27d954ac5d40b24d11422",
+                "operator_address": "443d5d5338d5979645dfc8f750c17768",
+                "parent": "84417cef5647097127e1bc24fd1002c6",
+                "epoch_onboarded": 35,
+                "version_onboarded": 8846607,
+                "generation": 2
+            }
+        ]
+    },
+    "e28f71944d743958c3fbf348bebe8087": {
+        "address": "e28f71944d743958c3fbf348bebe8087",
+        "operator_address": "60be7dd95e66414454f65bc3717dce73",
+        "parent": "749ff1a8b711605e5421cfd00bd3385f",
+        "epoch_onboarded": 382,
+        "version_onboarded": 81422963,
+        "generation": 4,
+        "children": [
+            {
+                "address": "75e6c399717bc76d0c0006b011d38889",
+                "operator_address": "f0940ecb9e12bfe5aa9fb07b4e1e551d",
+                "parent": "e28f71944d743958c3fbf348bebe8087",
+                "epoch_onboarded": 407,
+                "version_onboarded": 86613535,
+                "generation": 5
+            }
+        ]
+    },
+    "f87f7e60a019f509eb6573018cd0d8b8": {
+        "address": "f87f7e60a019f509eb6573018cd0d8b8",
+        "operator_address": "c514750b51b5bf01aac2f9a4b7c13ac4",
+        "parent": "c0a1f4d49658cf2fe5402e10f496bb80",
+        "epoch_onboarded": 209,
+        "version_onboarded": 45357274,
+        "generation": 1,
+        "children": [
+            {
+                "address": "0d785eb2412263beb0dbbb6468f35a1a",
+                "operator_address": "dfe51b921038123018619d9adaf4ef82",
+                "parent": "f87f7e60a019f509eb6573018cd0d8b8",
+                "epoch_onboarded": 285,
+                "version_onboarded": 63200868,
+                "generation": 2
+            }
+        ]
+    },
+    "7756310e875636763d16f080bb236cab": {
+        "address": "7756310e875636763d16f080bb236cab",
+        "operator_address": "23738f9e7d61505f726fe490e4a9e8ec",
+        "parent": "49d3c58668e4accc43b8a77a9f2835fa",
+        "epoch_onboarded": 38,
+        "version_onboarded": 9495400,
+        "generation": 2,
+        "children": []
+    },
+    "8211f452baa248cbab103474f6f47a43": {
+        "address": "8211f452baa248cbab103474f6f47a43",
+        "operator_address": "2ec2a7009f5dccde034c79cc84b44fa8",
+        "parent": "ba28f081de02fc6cc3bf9879d6033911",
+        "epoch_onboarded": 251,
+        "version_onboarded": 54883569,
+        "generation": 2,
+        "children": []
+    },
+    "ec96dec1be938e14dc148be9bc5ed7f3": {
+        "address": "ec96dec1be938e14dc148be9bc5ed7f3",
+        "operator_address": "abe72a40a1ad44aca90427bbcd6cdf77",
+        "parent": "50040b551a28645e5c684a646db8e646",
+        "epoch_onboarded": 38,
+        "version_onboarded": 9495043,
+        "generation": 2,
+        "children": [
+            {
+                "address": "a786d07652f5353fb1d440339c043d1a",
+                "operator_address": "f705b69caa264c7e36937dae2ec33658",
+                "parent": "ec96dec1be938e14dc148be9bc5ed7f3",
+                "epoch_onboarded": 69,
+                "version_onboarded": 16042107,
+                "generation": 3
+            },
+            {
+                "address": "7f10901425237ee607afa9cc80e5df3e",
+                "operator_address": "fadc578289ea90517dece3fe9139e79c",
+                "parent": "ec96dec1be938e14dc148be9bc5ed7f3",
+                "epoch_onboarded": 108,
+                "version_onboarded": 25005349,
+                "generation": 3
+            }
+        ]
+    },
+    "599a107393062c98a584817bda5b354b": {
+        "address": "599a107393062c98a584817bda5b354b",
+        "operator_address": "be55e840e606458fa2e93f58f864e61c",
+        "parent": "749ff1a8b711605e5421cfd00bd3385f",
+        "epoch_onboarded": 400,
+        "version_onboarded": 85172672,
+        "generation": 4,
+        "children": [
+            {
+                "address": "92b2b4e3388403067d8382a33584390a",
+                "operator_address": "097363f5b1c0597439dfefa9418fd0f5",
+                "parent": "599a107393062c98a584817bda5b354b",
+                "epoch_onboarded": 420,
+                "version_onboarded": 89409314,
+                "generation": 5
+            }
+        ]
+    },
+    "3983317328ea613e8de12725f560f683": {
+        "address": "3983317328ea613e8de12725f560f683",
+        "operator_address": "810ed14297887d9299955e49326664f4",
+        "parent": "0a5d5b9384f0e825cd1eb8ca9459e012",
+        "epoch_onboarded": 400,
+        "version_onboarded": 85172671,
+        "generation": 5,
+        "children": [
+            {
+                "address": "0c179cab6338f0ef490080dfc67bbfba",
+                "operator_address": "5ac13e85efdee1761a1712917b47496e",
+                "parent": "3983317328ea613e8de12725f560f683",
+                "epoch_onboarded": 432,
+                "version_onboarded": 91955270,
+                "generation": 6
+            }
+        ]
+    },
+    "d54e2c10b1810c2654184569b8ba2e96": {
+        "address": "d54e2c10b1810c2654184569b8ba2e96",
+        "operator_address": "04e65951a45c8ad54a927372da38a241",
+        "parent": "1c03e956dd7afc612e4efe240c23365d",
+        "epoch_onboarded": 56,
+        "version_onboarded": 12969530,
+        "generation": 2,
+        "children": []
+    },
+    "a6be3ad55806f2f65cd1776322aede1a": {
+        "address": "a6be3ad55806f2f65cd1776322aede1a",
+        "operator_address": "1d281e527124c0ebb466a553a3d5063e",
+        "parent": "44bffceb6ac69d098959e4f463fb7005",
+        "epoch_onboarded": 21,
+        "version_onboarded": 5218882,
+        "generation": 1,
+        "children": [
+            {
+                "address": "97a31d6d14fc8024a34b1630e9c4f638",
+                "operator_address": "f120fb81dde9db4a1f81e0d01d2936e2",
+                "parent": "a6be3ad55806f2f65cd1776322aede1a",
+                "epoch_onboarded": 36,
+                "version_onboarded": 9042418,
+                "generation": 2
+            }
+        ]
+    },
+    "75e6c399717bc76d0c0006b011d38889": {
+        "address": "75e6c399717bc76d0c0006b011d38889",
+        "operator_address": "f0940ecb9e12bfe5aa9fb07b4e1e551d",
+        "parent": "e28f71944d743958c3fbf348bebe8087",
+        "epoch_onboarded": 407,
+        "version_onboarded": 86613535,
+        "generation": 5,
+        "children": [
+            {
+                "address": "05f0c6691a9f77c379f5ea2769fdeeac",
+                "operator_address": "fee58173bd019ef097cf28ef8a3c43e0",
+                "parent": "75e6c399717bc76d0c0006b011d38889",
+                "epoch_onboarded": 441,
+                "version_onboarded": 93511264,
+                "generation": 6
+            }
+        ]
+    },
+    "c051bd516ca491cdf88c0a0656a552b0": {
+        "address": "c051bd516ca491cdf88c0a0656a552b0",
+        "operator_address": "f1ea95ffab3f82f1d35aaaf3bccbb4a1",
+        "parent": "34e5addec49ded4cc638dad8cd992858",
+        "epoch_onboarded": 22,
+        "version_onboarded": 5505531,
+        "generation": 1,
+        "children": []
+    },
+    "9401af0f29d2afd49b8e48a0c361f661": {
+        "address": "9401af0f29d2afd49b8e48a0c361f661",
+        "operator_address": "fbfbaebb74e2d4c54d73c66dc329d909",
+        "parent": "44bffceb6ac69d098959e4f463fb7005",
+        "epoch_onboarded": 41,
+        "version_onboarded": 10126552,
+        "generation": 1,
+        "children": []
+    },
+    "4152478106c9080141da1a7176292b8c": {
+        "address": "4152478106c9080141da1a7176292b8c",
+        "operator_address": "878e65b64d7dd4c5f535b52e5f5b01a5",
+        "parent": "d0d62ae27a4e84b559da089a1b15a79f",
+        "epoch_onboarded": 44,
+        "version_onboarded": 10768284,
+        "generation": 1,
+        "children": [
+            {
+                "address": "a2fab2df081cd8feed7f4d6ad2fff459",
+                "operator_address": "f19aef1426da6f228173549901a79250",
+                "parent": "4152478106c9080141da1a7176292b8c",
+                "epoch_onboarded": 142,
+                "version_onboarded": 32300454,
+                "generation": 2
+            }
+        ]
+    },
+    "556be5778be23ddba95957a157124b82": {
+        "address": "556be5778be23ddba95957a157124b82",
+        "operator_address": "9c6d7cef2bc1bb7a0f2a5fdb66d839a7",
+        "parent": "4ef2d7fd0ba37849fb94799c13084b16",
+        "epoch_onboarded": 410,
+        "version_onboarded": 87307113,
+        "generation": 6,
+        "children": [
+            {
+                "address": "b2c091a8b0514e64ea42d80328db2729",
+                "operator_address": "ec45edb3cbef0d559f10f9a8e8b6aa09",
+                "parent": "556be5778be23ddba95957a157124b82",
+                "epoch_onboarded": 444,
+                "version_onboarded": 94107844,
+                "generation": 7
+            }
+        ]
+    },
+    "2bfd96d8a674a360b733d16c65728d72": {
+        "address": "2bfd96d8a674a360b733d16c65728d72",
+        "operator_address": "0a3f841a240d4a76fd9c7d532c5f635c",
+        "parent": "6da2b828f3018637379203940c639a95",
+        "epoch_onboarded": 411,
+        "version_onboarded": 87512135,
+        "generation": 5,
+        "children": [
+            {
+                "address": "fdd67bb9d91c0e2b278a4c1537651e30",
+                "operator_address": "35c1e5f01b31f8dfcca908c973a7001d",
+                "parent": "2bfd96d8a674a360b733d16c65728d72",
+                "epoch_onboarded": 427,
+                "version_onboarded": 91068197,
+                "generation": 6
+            }
+        ]
+    },
+    "e202aa9b2cfdb96627531af17832f2ca": {
+        "address": "e202aa9b2cfdb96627531af17832f2ca",
+        "operator_address": "36d5101c160bb8921b747e6a7943dfe7",
+        "parent": "1e0f82ed044ad1b1e927f58da129a630",
+        "epoch_onboarded": 410,
+        "version_onboarded": 87258126,
+        "generation": 4,
+        "children": []
+    },
+    "79da3cf5f8d2376e4f7dc21a04b86fd6": {
+        "address": "79da3cf5f8d2376e4f7dc21a04b86fd6",
+        "operator_address": "8afc82a6ca451312ea5af0c46fa3ace2",
+        "parent": "9a710919b1a1e67eda335269c0085c91",
+        "epoch_onboarded": 281,
+        "version_onboarded": 62222805,
+        "generation": 2,
+        "children": []
+    },
+    "845e52c3ccdc7e725fa8c037b995e442": {
+        "address": "845e52c3ccdc7e725fa8c037b995e442",
+        "operator_address": "dcc8b3994c55d75a276ad62df9213433",
+        "parent": "0a5d5b9384f0e825cd1eb8ca9459e012",
+        "epoch_onboarded": 414,
+        "version_onboarded": 88108862,
+        "generation": 5,
+        "children": []
+    },
+    "59c6262930e3ebb3398d5b88790c090c": {
+        "address": "59c6262930e3ebb3398d5b88790c090c",
+        "operator_address": "ca949aa34965a5984c2bffff69237216",
+        "parent": "e8a1bf5e60fa00c2b792098b12fde964",
+        "epoch_onboarded": 38,
+        "version_onboarded": 9628061,
+        "generation": 2,
+        "children": []
+    },
+    "f26fa56d696b2e085dd10793d235de9b": {
+        "address": "f26fa56d696b2e085dd10793d235de9b",
+        "operator_address": "e0efa5e19cecb19a7be8b2637eeb2f73",
+        "parent": "5abedec612ea01b9f6f2eaad7187bfef",
+        "epoch_onboarded": 59,
+        "version_onboarded": 13526707,
+        "generation": 1,
+        "children": [
+            {
+                "address": "78233906ce0643d1852a7d4899a7666f",
+                "operator_address": "4a06455bee983e8bbde0597fb0dd4a21",
+                "parent": "f26fa56d696b2e085dd10793d235de9b",
+                "epoch_onboarded": 105,
+                "version_onboarded": 24567211,
+                "generation": 2
+            }
+        ]
+    },
+    "c44a50622c2d465e6c15982b8e127349": {
+        "address": "c44a50622c2d465e6c15982b8e127349",
+        "operator_address": "6b4124692f988f8accb3584d11915b16",
+        "parent": "c0a1f4d49658cf2fe5402e10f496bb80",
+        "epoch_onboarded": 48,
+        "version_onboarded": 11757665,
+        "generation": 1,
+        "children": []
+    },
+    "c067823aa108fb83f9f1015b429c0865": {
+        "address": "c067823aa108fb83f9f1015b429c0865",
+        "operator_address": "96e7330adb6a9d74d0d7c847f99ec48d",
+        "parent": "aa7b724a51a8bd8e55208fef969209b3",
+        "epoch_onboarded": 54,
+        "version_onboarded": 12491864,
+        "generation": 2,
+        "children": []
+    },
+    "c0ffee1a3393516d27b72b28464eaa5f": {
+        "address": "c0ffee1a3393516d27b72b28464eaa5f",
+        "operator_address": "e79094226fb3563deb9b382ea4b4107d",
+        "parent": "988b8c3b7e55b6e5126884e02c8f166e",
+        "epoch_onboarded": 415,
+        "version_onboarded": 88345872,
+        "generation": 6,
+        "children": [
+            {
+                "address": "7d299bf3d624e937c23302d8b5e3a1b2",
+                "operator_address": "8ccbf366a50b26542762216f23aef30b",
+                "parent": "c0ffee1a3393516d27b72b28464eaa5f",
+                "epoch_onboarded": 441,
+                "version_onboarded": 93549503,
+                "generation": 7
+            }
+        ]
+    },
+    "a35ae41a5f1701fcb67f4e4cad59d259": {
+        "address": "a35ae41a5f1701fcb67f4e4cad59d259",
+        "operator_address": "2a9779597d797efbee6d21ba1216c6c6",
+        "parent": "79784b5981cc5407ba3bf9f7526f3f54",
+        "epoch_onboarded": 419,
+        "version_onboarded": 89192074,
+        "generation": 4,
+        "children": []
+    },
+    "92b2b4e3388403067d8382a33584390a": {
+        "address": "92b2b4e3388403067d8382a33584390a",
+        "operator_address": "097363f5b1c0597439dfefa9418fd0f5",
+        "parent": "599a107393062c98a584817bda5b354b",
+        "epoch_onboarded": 420,
+        "version_onboarded": 89409314,
+        "generation": 5,
+        "children": []
+    },
+    "988b8c3b7e55b6e5126884e02c8f166e": {
+        "address": "988b8c3b7e55b6e5126884e02c8f166e",
+        "operator_address": "f989a9c6835eb8272df7c5ac40e1a144",
+        "parent": "6da2b828f3018637379203940c639a95",
+        "epoch_onboarded": 380,
+        "version_onboarded": 80870321,
+        "generation": 5,
+        "children": [
+            {
+                "address": "c0ffee1a3393516d27b72b28464eaa5f",
+                "operator_address": "e79094226fb3563deb9b382ea4b4107d",
+                "parent": "988b8c3b7e55b6e5126884e02c8f166e",
+                "epoch_onboarded": 415,
+                "version_onboarded": 88345872,
+                "generation": 6
+            },
+            {
+                "address": "36b4d8843386318bd7866ef161045747",
+                "operator_address": "f8226fc51aae8b2317ce238796c664f6",
+                "parent": "988b8c3b7e55b6e5126884e02c8f166e",
+                "epoch_onboarded": 433,
+                "version_onboarded": 92118368,
+                "generation": 6
+            }
+        ]
+    },
+    "adcb1d42a46292ae89e938bd982f2867": {
+        "address": "adcb1d42a46292ae89e938bd982f2867",
+        "operator_address": "69638548b5c6e8cf8eb8ad3f2c8e096a",
+        "parent": "048ccb33bf48a0f333023e0e8ecce568",
+        "epoch_onboarded": 67,
+        "version_onboarded": 15559562,
+        "generation": 4,
+        "children": []
+    },
+    "5d1de3da6351f8ee592139cfd461ae10": {
+        "address": "5d1de3da6351f8ee592139cfd461ae10",
+        "operator_address": "dff296e4bd2b559a431351967648a4f0",
+        "parent": "7ec16859c24200d8e074809d252ac740",
+        "epoch_onboarded": 69,
+        "version_onboarded": 16247827,
+        "generation": 1,
+        "children": []
+    },
+    "d871c61a37f26ee71e3f156e5f201118": {
+        "address": "d871c61a37f26ee71e3f156e5f201118",
+        "operator_address": "cf39c6554fac586bc95d71a93e921d76",
+        "parent": "50040b551a28645e5c684a646db8e646",
+        "epoch_onboarded": 70,
+        "version_onboarded": 16464658,
+        "generation": 2,
+        "children": []
+    },
+    "c5162c65fde8c9d9ca9b564e41a54003": {
+        "address": "c5162c65fde8c9d9ca9b564e41a54003",
+        "operator_address": "1d2504351412d24036ef14a9b234cb67",
+        "parent": "6da2b828f3018637379203940c639a95",
+        "epoch_onboarded": 425,
+        "version_onboarded": 90454168,
+        "generation": 5,
+        "children": [
+            {
+                "address": "5dc8c3878e99e9fd12ebdefa1803d332",
+                "operator_address": "2796368019d960279befdd9913f13d2a",
+                "parent": "c5162c65fde8c9d9ca9b564e41a54003",
+                "epoch_onboarded": 444,
+                "version_onboarded": 94112794,
+                "generation": 6
+            }
+        ]
+    },
+    "fdd67bb9d91c0e2b278a4c1537651e30": {
+        "address": "fdd67bb9d91c0e2b278a4c1537651e30",
+        "operator_address": "35c1e5f01b31f8dfcca908c973a7001d",
+        "parent": "2bfd96d8a674a360b733d16c65728d72",
+        "epoch_onboarded": 427,
+        "version_onboarded": 91068197,
+        "generation": 6,
+        "children": []
+    },
+    "59852115f2d8f091769c03777d656d9c": {
+        "address": "59852115f2d8f091769c03777d656d9c",
+        "operator_address": "043eb1aa957d6de332cc5c0da247933e",
+        "parent": "749ff1a8b711605e5421cfd00bd3385f",
+        "epoch_onboarded": 425,
+        "version_onboarded": 90511454,
+        "generation": 4,
+        "children": []
+    },
+    "6da2b828f3018637379203940c639a95": {
+        "address": "6da2b828f3018637379203940c639a95",
+        "operator_address": "ef1c50b6d526d89fa4ce077aebdd118a",
+        "parent": "1e0f82ed044ad1b1e927f58da129a630",
+        "epoch_onboarded": 328,
+        "version_onboarded": 70314447,
+        "generation": 4,
+        "children": [
+            {
+                "address": "988b8c3b7e55b6e5126884e02c8f166e",
+                "operator_address": "f989a9c6835eb8272df7c5ac40e1a144",
+                "parent": "6da2b828f3018637379203940c639a95",
+                "epoch_onboarded": 380,
+                "version_onboarded": 80870321,
+                "generation": 5
+            },
+            {
+                "address": "2bfd96d8a674a360b733d16c65728d72",
+                "operator_address": "0a3f841a240d4a76fd9c7d532c5f635c",
+                "parent": "6da2b828f3018637379203940c639a95",
+                "epoch_onboarded": 411,
+                "version_onboarded": 87512135,
+                "generation": 5
+            },
+            {
+                "address": "c5162c65fde8c9d9ca9b564e41a54003",
+                "operator_address": "1d2504351412d24036ef14a9b234cb67",
+                "parent": "6da2b828f3018637379203940c639a95",
+                "epoch_onboarded": 425,
+                "version_onboarded": 90454168,
+                "generation": 5
+            }
+        ]
+    },
+    "b8ba6c084fa504add5f23ae51e41f23d": {
+        "address": "b8ba6c084fa504add5f23ae51e41f23d",
+        "operator_address": "05480c7e704c937a7a2f27e221979483",
+        "parent": "0a5d5b9384f0e825cd1eb8ca9459e012",
+        "epoch_onboarded": 433,
+        "version_onboarded": 92094682,
+        "generation": 5,
+        "children": [
+            {
+                "address": "d3dba952a851ff15a841c339b426e1ea",
+                "operator_address": "cc93d6a5d12a12bdedec685c4a4cedac",
+                "parent": "b8ba6c084fa504add5f23ae51e41f23d",
+                "epoch_onboarded": 448,
+                "version_onboarded": 94827173,
+                "generation": 6
+            }
+        ]
+    },
+    "7d299bf3d624e937c23302d8b5e3a1b2": {
+        "address": "7d299bf3d624e937c23302d8b5e3a1b2",
+        "operator_address": "8ccbf366a50b26542762216f23aef30b",
+        "parent": "c0ffee1a3393516d27b72b28464eaa5f",
+        "epoch_onboarded": 441,
+        "version_onboarded": 93549503,
+        "generation": 7,
+        "children": []
+    },
+    "05f0c6691a9f77c379f5ea2769fdeeac": {
+        "address": "05f0c6691a9f77c379f5ea2769fdeeac",
+        "operator_address": "fee58173bd019ef097cf28ef8a3c43e0",
+        "parent": "75e6c399717bc76d0c0006b011d38889",
+        "epoch_onboarded": 441,
+        "version_onboarded": 93511264,
+        "generation": 6,
+        "children": []
+    },
+    "db971ba7467a10e8fb9f9b660f09f50d": {
+        "address": "db971ba7467a10e8fb9f9b660f09f50d",
+        "operator_address": "36d2782fb50c075a6820c0e4780a7e8b",
+        "parent": "4b08c148f5e80962be1e5755f0d2ed29",
+        "epoch_onboarded": 442,
+        "version_onboarded": 93732917,
+        "generation": 3,
+        "children": []
+    },
+    "3ad62c7bf62a8dca766e74772192b8cc": {
+        "address": "3ad62c7bf62a8dca766e74772192b8cc",
+        "operator_address": "7aaaa4baf7a62c630339b871a8991dd2",
+        "parent": "7ec16859c24200d8e074809d252ac740",
+        "epoch_onboarded": 173,
+        "version_onboarded": 37498488,
+        "generation": 1,
+        "children": []
+    },
+    "b2c091a8b0514e64ea42d80328db2729": {
+        "address": "b2c091a8b0514e64ea42d80328db2729",
+        "operator_address": "ec45edb3cbef0d559f10f9a8e8b6aa09",
+        "parent": "556be5778be23ddba95957a157124b82",
+        "epoch_onboarded": 444,
+        "version_onboarded": 94107844,
+        "generation": 7,
+        "children": []
+    },
+    "fb7273aa4f2c5d48f7c6abeb915f4051": {
+        "address": "fb7273aa4f2c5d48f7c6abeb915f4051",
+        "operator_address": "32cc8ba2fd12b225d177d6ebf4c72941",
+        "parent": "4ef2d7fd0ba37849fb94799c13084b16",
+        "epoch_onboarded": 444,
+        "version_onboarded": 94100016,
+        "generation": 6,
+        "children": []
+    },
+    "cb4afd9650005226e65e107030027471": {
+        "address": "cb4afd9650005226e65e107030027471",
+        "operator_address": "494b963e4022ebd6482373efe080d90e",
+        "parent": "1c03e956dd7afc612e4efe240c23365d",
+        "epoch_onboarded": 101,
+        "version_onboarded": 23533517,
+        "generation": 2,
+        "children": []
+    },
+    "d4df0e0d9777a35bb094df319231fc5f": {
+        "address": "d4df0e0d9777a35bb094df319231fc5f",
+        "operator_address": "ffd343118f13fbd59ef2e2c37f17ef37",
+        "parent": "46a7a744b5d33c47f6b20766f8088b10",
+        "epoch_onboarded": 73,
+        "version_onboarded": 17126177,
+        "generation": 1,
+        "children": []
+    },
+    "5dc8c3878e99e9fd12ebdefa1803d332": {
+        "address": "5dc8c3878e99e9fd12ebdefa1803d332",
+        "operator_address": "2796368019d960279befdd9913f13d2a",
+        "parent": "c5162c65fde8c9d9ca9b564e41a54003",
+        "epoch_onboarded": 444,
+        "version_onboarded": 94112794,
+        "generation": 6,
+        "children": []
+    },
+    "7f10901425237ee607afa9cc80e5df3e": {
+        "address": "7f10901425237ee607afa9cc80e5df3e",
+        "operator_address": "fadc578289ea90517dece3fe9139e79c",
+        "parent": "ec96dec1be938e14dc148be9bc5ed7f3",
+        "epoch_onboarded": 108,
+        "version_onboarded": 25005349,
+        "generation": 3,
+        "children": []
+    },
+    "93a91b21218aff3ceb211eb02b27cbe0": {
+        "address": "93a91b21218aff3ceb211eb02b27cbe0",
+        "operator_address": "8f6ccc18d8d162f06d6e4c3b50d81c1c",
+        "parent": "ea10ea06c0fdab689da9dcf78fc90f4e",
+        "epoch_onboarded": 35,
+        "version_onboarded": 8848822,
+        "generation": 2,
+        "children": []
+    },
+    "903e3503d075d385b72c6136cfdfed47": {
+        "address": "903e3503d075d385b72c6136cfdfed47",
+        "operator_address": "3c71c1f6eecd72ac163d21dab1ca513e",
+        "parent": "355ae7b5f391782006ef88580bbeaf22",
+        "epoch_onboarded": 81,
+        "version_onboarded": 19260994,
+        "generation": 2,
+        "children": []
+    },
+    "b6e4cea71556d2685a22e9232f3a1f4f": {
+        "address": "b6e4cea71556d2685a22e9232f3a1f4f",
+        "operator_address": "a51bc0d4568c621fe94b6888b1a3dc57",
+        "parent": "b5b5ba58b8e9916fe449d1f989383834",
+        "epoch_onboarded": 128,
+        "version_onboarded": 29113907,
+        "generation": 2,
+        "children": []
+    },
+    "123c6ca26a6ed35ad00868b33b4a98d1": {
+        "address": "123c6ca26a6ed35ad00868b33b4a98d1",
+        "operator_address": "f7b93fba7bf20c1999a79c57c8a1cb8d",
+        "parent": "46a7a744b5d33c47f6b20766f8088b10",
+        "epoch_onboarded": 187,
+        "version_onboarded": 40148496,
+        "generation": 1,
+        "children": []
+    },
+    "32f24e0488a4e189d38fccd1f2a94b53": {
+        "address": "32f24e0488a4e189d38fccd1f2a94b53",
+        "operator_address": "147ac1bc983d5da8fa5628d6ecd201c5",
+        "parent": "9909f6edb2a0684adecd7b448b989e4f",
+        "epoch_onboarded": 381,
+        "version_onboarded": 81183027,
+        "generation": 5,
+        "children": []
+    },
+    "a786d07652f5353fb1d440339c043d1a": {
+        "address": "a786d07652f5353fb1d440339c043d1a",
+        "operator_address": "f705b69caa264c7e36937dae2ec33658",
+        "parent": "ec96dec1be938e14dc148be9bc5ed7f3",
+        "epoch_onboarded": 69,
+        "version_onboarded": 16042107,
+        "generation": 3,
+        "children": []
+    },
+    "8b9a7d390cd9f902ee2ef4ba8ea699d1": {
+        "address": "8b9a7d390cd9f902ee2ef4ba8ea699d1",
+        "operator_address": "69bc624b7bff5eeac6b4ab6ce8d159c7",
+        "parent": "d1281de242839fc939745996882c5fc2",
+        "epoch_onboarded": 274,
+        "version_onboarded": 60719825,
+        "generation": 2,
+        "children": []
+    },
+    "d3dba952a851ff15a841c339b426e1ea": {
+        "address": "d3dba952a851ff15a841c339b426e1ea",
+        "operator_address": "cc93d6a5d12a12bdedec685c4a4cedac",
+        "parent": "b8ba6c084fa504add5f23ae51e41f23d",
+        "epoch_onboarded": 448,
+        "version_onboarded": 94827173,
+        "generation": 6,
+        "children": []
+    },
+    "40ea177f547a82a259baa89fbd671c70": {
+        "address": "40ea177f547a82a259baa89fbd671c70",
+        "operator_address": "9f929d504b079f0c7503ab4a254cc493",
+        "parent": "9a710919b1a1e67eda335269c0085c91",
+        "epoch_onboarded": 217,
+        "version_onboarded": 47038584,
+        "generation": 2,
+        "children": []
+    },
+    "0c179cab6338f0ef490080dfc67bbfba": {
+        "address": "0c179cab6338f0ef490080dfc67bbfba",
+        "operator_address": "5ac13e85efdee1761a1712917b47496e",
+        "parent": "3983317328ea613e8de12725f560f683",
+        "epoch_onboarded": 432,
+        "version_onboarded": 91955270,
+        "generation": 6,
+        "children": []
+    },
+    "36b4d8843386318bd7866ef161045747": {
+        "address": "36b4d8843386318bd7866ef161045747",
+        "operator_address": "f8226fc51aae8b2317ce238796c664f6",
+        "parent": "988b8c3b7e55b6e5126884e02c8f166e",
+        "epoch_onboarded": 433,
+        "version_onboarded": 92118368,
+        "generation": 6,
+        "children": []
+    },
+    "bb4dfa1a57eb330687b283da402d1a67": {
+        "address": "bb4dfa1a57eb330687b283da402d1a67",
+        "operator_address": "dcea06ecc0b6d7852bc4f9d3a1c69b8d",
+        "parent": "ed27fceea43e882d39f7e89422b3a3f1",
+        "epoch_onboarded": 102,
+        "version_onboarded": 23751577,
+        "generation": 5,
+        "children": [
+            {
+                "address": "223bd2ed0f34bfb597bbc109564e48e4",
+                "operator_address": "b7963d4f047cf54fe9248c434449822f",
+                "parent": "bb4dfa1a57eb330687b283da402d1a67",
+                "epoch_onboarded": 119,
+                "version_onboarded": 27221205,
+                "generation": 6
+            }
+        ]
+    },
+    "a453c89d37bef4613de96cdb50f41a66": {
+        "address": "a453c89d37bef4613de96cdb50f41a66",
+        "operator_address": "4b13a0b8ae02e413edb794e09cb2389a",
+        "parent": "6a9f0fa0b6bd687f4343d8880b40f697",
+        "epoch_onboarded": 101,
+        "version_onboarded": 23550206,
+        "generation": 3,
+        "children": [
+            {
+                "address": "1969a7a00e28134ae50346263bf3d1fb",
+                "operator_address": "c55df528ba1434560f98ad9ad4e1f656",
+                "parent": "a453c89d37bef4613de96cdb50f41a66",
+                "epoch_onboarded": 119,
+                "version_onboarded": 27191917,
+                "generation": 4
+            }
+        ]
+    },
+    "5322609dde43e08ad6da6964574941fd": {
+        "address": "5322609dde43e08ad6da6964574941fd",
+        "operator_address": "1d641c2fd254dad8680047c4c5e42764",
+        "parent": "b1471dc5764695abb4cadf16e26bd4c7",
+        "epoch_onboarded": 24,
+        "version_onboarded": 6006235,
+        "generation": 1,
+        "children": []
+    },
+    "0761bca303f0baac640765d3ddf172be": {
+        "address": "0761bca303f0baac640765d3ddf172be",
+        "operator_address": "c48e191e56ff1013a3a27814bf060b02",
+        "parent": "252f0b551c80cd9e951d82c6f70792ae",
+        "epoch_onboarded": 113,
+        "version_onboarded": 26016904,
+        "generation": 1,
+        "children": [
+            {
+                "address": "7e0189dbb87456362542de9600811d91",
+                "operator_address": "79b34259a00a4f3a742fad7c58fd74ad",
+                "parent": "0761bca303f0baac640765d3ddf172be",
+                "epoch_onboarded": 128,
+                "version_onboarded": 29238111,
+                "generation": 2
+            },
+            {
+                "address": "e0676852d0be4db002299d8af2796096",
+                "operator_address": "000dd36a4aeccb6a84f7b5f7a219a193",
+                "parent": "0761bca303f0baac640765d3ddf172be",
+                "epoch_onboarded": 143,
+                "version_onboarded": 32334427,
+                "generation": 2
+            }
+        ]
+    },
+    "e985cbb111a6e7210f1f07aa1f8a75dd": {
+        "address": "e985cbb111a6e7210f1f07aa1f8a75dd",
+        "operator_address": "ee58c4a2938cf3d892e85fb2cc039245",
+        "parent": "bdb8ad37341cec0817fd8e2474e25031",
+        "epoch_onboarded": 23,
+        "version_onboarded": 5850341,
+        "generation": 1,
+        "children": []
+    },
+    "bf9914712cf46865c1a94b409a6f6bce": {
+        "address": "bf9914712cf46865c1a94b409a6f6bce",
+        "operator_address": "7e3dadc0aa57df60a2254b05bc4cf6a7",
+        "parent": "34e5addec49ded4cc638dad8cd992858",
+        "epoch_onboarded": 114,
+        "version_onboarded": 26281795,
+        "generation": 1,
+        "children": []
+    },
+    "b0b8497a2ebe3d5802e7317d3a5804f2": {
+        "address": "b0b8497a2ebe3d5802e7317d3a5804f2",
+        "operator_address": "4c54ecbc4af6326ce40e307e8f4657d2",
+        "parent": "34e5addec49ded4cc638dad8cd992858",
+        "epoch_onboarded": 45,
+        "version_onboarded": 10946719,
+        "generation": 1,
+        "children": []
+    },
+    "9d0a8f2f51a2cb0d4eceeb1fd269431d": {
+        "address": "9d0a8f2f51a2cb0d4eceeb1fd269431d",
+        "operator_address": "17bbd0e9ba88b569ca5e3bd3c6f04952",
+        "parent": "ccb020e30b1c014f45664761f0b740c7",
+        "epoch_onboarded": 31,
+        "version_onboarded": 7958699,
+        "generation": 1,
+        "children": []
+    },
+    "1ec9ce93756b92ab1a2665c629b37bfb": {
+        "address": "1ec9ce93756b92ab1a2665c629b37bfb",
+        "operator_address": "aab75b47a98d702541c5d6c40136d2d7",
+        "parent": "c0a1f4d49658cf2fe5402e10f496bb80",
+        "epoch_onboarded": 94,
+        "version_onboarded": 22000252,
+        "generation": 1,
+        "children": []
+    },
+    "0ef85e1723530edd76f2bb13614ac5c5": {
+        "address": "0ef85e1723530edd76f2bb13614ac5c5",
+        "operator_address": "c6c3414f37d81f68f8447ddfeaf588ac",
+        "parent": "7e56b29cb23a49368be593e5cfc9712e",
+        "epoch_onboarded": 37,
+        "version_onboarded": 9271787,
+        "generation": 1,
+        "children": []
+    },
+    "e0676852d0be4db002299d8af2796096": {
+        "address": "e0676852d0be4db002299d8af2796096",
+        "operator_address": "000dd36a4aeccb6a84f7b5f7a219a193",
+        "parent": "0761bca303f0baac640765d3ddf172be",
+        "epoch_onboarded": 143,
+        "version_onboarded": 32334427,
+        "generation": 2,
+        "children": []
+    },
+    "88c0b80b70314fec169492561c9b20b5": {
+        "address": "88c0b80b70314fec169492561c9b20b5",
+        "operator_address": "8efe761c1cb3b5b44068512f9275f5dd",
+        "parent": "71cd7dac2332c0200059af45818b95f8",
+        "epoch_onboarded": 102,
+        "version_onboarded": 23761741,
+        "generation": 2,
+        "children": []
+    },
+    "97a31d6d14fc8024a34b1630e9c4f638": {
+        "address": "97a31d6d14fc8024a34b1630e9c4f638",
+        "operator_address": "f120fb81dde9db4a1f81e0d01d2936e2",
+        "parent": "a6be3ad55806f2f65cd1776322aede1a",
+        "epoch_onboarded": 36,
+        "version_onboarded": 9042418,
+        "generation": 2,
+        "children": []
+    },
+    "7e0189dbb87456362542de9600811d91": {
+        "address": "7e0189dbb87456362542de9600811d91",
+        "operator_address": "79b34259a00a4f3a742fad7c58fd74ad",
+        "parent": "0761bca303f0baac640765d3ddf172be",
+        "epoch_onboarded": 128,
+        "version_onboarded": 29238111,
+        "generation": 2,
+        "children": [
+            {
+                "address": "b6ae71e87172e1d84b64163545e6833f",
+                "operator_address": "c5ed4d4e5556ea8bf63d49785f7428ed",
+                "parent": "7e0189dbb87456362542de9600811d91",
+                "epoch_onboarded": 164,
+                "version_onboarded": 36966707,
+                "generation": 3
+            }
+        ]
+    },
+    "a2fab2df081cd8feed7f4d6ad2fff459": {
+        "address": "a2fab2df081cd8feed7f4d6ad2fff459",
+        "operator_address": "f19aef1426da6f228173549901a79250",
+        "parent": "4152478106c9080141da1a7176292b8c",
+        "epoch_onboarded": 142,
+        "version_onboarded": 32300454,
+        "generation": 2,
+        "children": []
+    },
+    "a4987f392e32442229f15fb73dac5e50": {
+        "address": "a4987f392e32442229f15fb73dac5e50",
+        "operator_address": "24b9f75f008646fd7338016636917527",
+        "parent": "ba28f081de02fc6cc3bf9879d6033911",
+        "epoch_onboarded": 113,
+        "version_onboarded": 26091502,
+        "generation": 2,
+        "children": []
+    },
+    "b8c866350ef33ba748955b7d1ca24130": {
+        "address": "b8c866350ef33ba748955b7d1ca24130",
+        "operator_address": "1fd7816f7bb0afd65b7d133c5923385f",
+        "parent": "69a385e1744e33fbb24a42ecbd1603e3",
+        "epoch_onboarded": 45,
+        "version_onboarded": 10998080,
+        "generation": 2,
+        "children": []
+    },
+    "b6ae71e87172e1d84b64163545e6833f": {
+        "address": "b6ae71e87172e1d84b64163545e6833f",
+        "operator_address": "c5ed4d4e5556ea8bf63d49785f7428ed",
+        "parent": "7e0189dbb87456362542de9600811d91",
+        "epoch_onboarded": 164,
+        "version_onboarded": 36966707,
+        "generation": 3,
+        "children": []
+    },
+    "dcd39098898a16933829978cb4e7eff6": {
+        "address": "dcd39098898a16933829978cb4e7eff6",
+        "operator_address": "d434e5a57e995e246a9c17e8fd92ba10",
+        "parent": "4b08c148f5e80962be1e5755f0d2ed29",
+        "epoch_onboarded": 107,
+        "version_onboarded": 24777550,
+        "generation": 3,
+        "children": []
+    },
+    "5f82ff7fb963fb8c0f4262318b1f39fa": {
+        "address": "5f82ff7fb963fb8c0f4262318b1f39fa",
+        "operator_address": "5c8a726efc5f2635086f8782667723dc",
+        "parent": "6a9f0fa0b6bd687f4343d8880b40f697",
+        "epoch_onboarded": 117,
+        "version_onboarded": 26881121,
+        "generation": 3,
+        "children": []
+    },
+    "2cc7223c4f8c1899a7ad393c717ab936": {
+        "address": "2cc7223c4f8c1899a7ad393c717ab936",
+        "operator_address": "8dd65cfd0e5bc028c58096d9fb3d6fe8",
+        "parent": "048ccb33bf48a0f333023e0e8ecce568",
+        "epoch_onboarded": 121,
+        "version_onboarded": 27680789,
+        "generation": 4,
+        "children": []
+    },
+    "1a3f012f133e40cf0ffdb565f5087d34": {
+        "address": "1a3f012f133e40cf0ffdb565f5087d34",
+        "operator_address": "eb765d9a3c86a5d08ae2e1c61c4b2e07",
+        "parent": "b1baaa259104fbb80d38a8ac6f584ada",
+        "epoch_onboarded": 102,
+        "version_onboarded": 23751111,
+        "generation": 4,
+        "children": [
+            {
+                "address": "f7f481f4126444b8ccf4984495ba6921",
+                "operator_address": "f0bc45ad6250728adf27ec6d4f708018",
+                "parent": "1a3f012f133e40cf0ffdb565f5087d34",
+                "epoch_onboarded": 119,
+                "version_onboarded": 27220774,
+                "generation": 5
+            }
+        ]
+    },
+    "1969a7a00e28134ae50346263bf3d1fb": {
+        "address": "1969a7a00e28134ae50346263bf3d1fb",
+        "operator_address": "c55df528ba1434560f98ad9ad4e1f656",
+        "parent": "a453c89d37bef4613de96cdb50f41a66",
+        "epoch_onboarded": 119,
+        "version_onboarded": 27191917,
+        "generation": 4,
+        "children": []
+    },
+    "ed27fceea43e882d39f7e89422b3a3f1": {
+        "address": "ed27fceea43e882d39f7e89422b3a3f1",
+        "operator_address": "5515dfb0ed71b3d6ed129de884366b17",
+        "parent": "4c95e7b998b4e66ef666fe12930a4d5c",
+        "epoch_onboarded": 87,
+        "version_onboarded": 20465634,
+        "generation": 4,
+        "children": [
+            {
+                "address": "bb4dfa1a57eb330687b283da402d1a67",
+                "operator_address": "dcea06ecc0b6d7852bc4f9d3a1c69b8d",
+                "parent": "ed27fceea43e882d39f7e89422b3a3f1",
+                "epoch_onboarded": 102,
+                "version_onboarded": 23751577,
+                "generation": 5
+            },
+            {
+                "address": "6310ce55a22b2e7d39c5da4589442ab0",
+                "operator_address": "ed82917453398774e38bf67973edba80",
+                "parent": "ed27fceea43e882d39f7e89422b3a3f1",
+                "epoch_onboarded": 118,
+                "version_onboarded": 27191763,
+                "generation": 5
+            }
+        ]
+    },
+    "ac08d4529653d5944b39e155ca9e32b8": {
+        "address": "ac08d4529653d5944b39e155ca9e32b8",
+        "operator_address": "c5b630e82988ecdd4bcefcfae1b0ac59",
+        "parent": "b1baaa259104fbb80d38a8ac6f584ada",
+        "epoch_onboarded": 118,
+        "version_onboarded": 27178045,
+        "generation": 4,
+        "children": []
+    },
+    "45558bad546e6159020871f7e5d094d7": {
+        "address": "45558bad546e6159020871f7e5d094d7",
+        "operator_address": "8bbd842055e8c0312c2158ec4f3c5865",
+        "parent": "4c95e7b998b4e66ef666fe12930a4d5c",
+        "epoch_onboarded": 118,
+        "version_onboarded": 27177256,
+        "generation": 4,
+        "children": []
+    },
+    "6310ce55a22b2e7d39c5da4589442ab0": {
+        "address": "6310ce55a22b2e7d39c5da4589442ab0",
+        "operator_address": "ed82917453398774e38bf67973edba80",
+        "parent": "ed27fceea43e882d39f7e89422b3a3f1",
+        "epoch_onboarded": 118,
+        "version_onboarded": 27191763,
+        "generation": 5,
+        "children": []
+    },
+    "8123b6171e1e4cd704b68e1840881e21": {
+        "address": "8123b6171e1e4cd704b68e1840881e21",
+        "operator_address": "a30fc070b03dc0d9f36d27f7a9ba0339",
+        "parent": "9909f6edb2a0684adecd7b448b989e4f",
+        "epoch_onboarded": 119,
+        "version_onboarded": 27220589,
+        "generation": 5,
+        "children": []
+    },
+    "f7f481f4126444b8ccf4984495ba6921": {
+        "address": "f7f481f4126444b8ccf4984495ba6921",
+        "operator_address": "f0bc45ad6250728adf27ec6d4f708018",
+        "parent": "1a3f012f133e40cf0ffdb565f5087d34",
+        "epoch_onboarded": 119,
+        "version_onboarded": 27220774,
+        "generation": 5,
+        "children": []
+    },
+    "223bd2ed0f34bfb597bbc109564e48e4": {
+        "address": "223bd2ed0f34bfb597bbc109564e48e4",
+        "operator_address": "b7963d4f047cf54fe9248c434449822f",
+        "parent": "bb4dfa1a57eb330687b283da402d1a67",
+        "epoch_onboarded": 119,
+        "version_onboarded": 27221205,
+        "generation": 6,
+        "children": []
+    }
+}

@@ -1,6 +1,9 @@
-from ol_util import lookup_wallet_type
+from ol_util import (
+    load_account_balances_for_acc_type,
+    lookup_wallet_type
+)
 from db.model import session, AccountBalance, label, cast, Integer, or_
-from typing import List
+from typing import List, Dict, Tuple
 from collections import namedtuple
 from datetime import datetime
 from time import mktime
@@ -55,9 +58,30 @@ def get_acc_balances() -> List:
     return list_out
 
 
+def how_liquid_are_we() -> None:
+    # print("getting validator balance...")
+    # load_account_balances_for_acc_type("validator")
+    print("getting unlocked balances")
+    AccountBalance.lookup_wallets_unlocked(AccountBalance)
+    # print("getting miner balances")
+    # load_account_balances_for_acc_type("miner")
+    # print("getting basic balances")
+    # load_account_balances_for_acc_type("basic")
+    # print("getting community balances")
+    # load_account_balances_for_acc_type("community")
+    # print("lookup wallet types slow / normal")
+    # AccountBalance.lookup_wallet_types(AccountBalance)
+    # # # # print("calculate liquidity...")
+    # # # # ls = AccountBalance.get_liquid_supply()
+    # # # # print(f"We have a liquid supply of {ls[0]} / {ls[1]}")
+
+    print("done!")
+
+
 def main():
-    account_balance_list = get_acc_balances()
-    lookup_slow_flag(account_balance_list)
+    ...
+    # account_balance_list = get_acc_balances()
+    # lookup_slow_flag(account_balance_list)
     # Serializing json
     # json_object = dumps(account_balance_list_rich, indent=4)
     
@@ -67,4 +91,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    how_liquid_are_we()
